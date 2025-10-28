@@ -1,0 +1,178 @@
+entries:
+- min_roll: 1
+  max_roll: 10
+  name: Potion of Cure light wounds
+  value: 50
+- min_roll: 11
+  max_roll: 13
+  name: Potion of Endure elements
+  value: 50
+- min_roll: 14
+  max_roll: 15
+  name: Potion of Hide from animals
+  value: 50
+- min_roll: 16
+  max_roll: 17
+  name: Potion of Hide from undead
+  value: 50
+- min_roll: 18
+  max_roll: 19
+  name: Potion of Jump
+  value: 50
+- min_roll: 20
+  max_roll: 22
+  name: Potion of Mage armor
+  value: 50
+- min_roll: 23
+  max_roll: 25
+  name: Potion of Magic fang
+  value: 50
+- min_roll: 26
+  max_roll: 26
+  name: Oil of Magic stone
+  value: 50
+- min_roll: 27
+  max_roll: 29
+  name: Oil of Magic weapon
+  value: 50
+- min_roll: 30
+  max_roll: 30
+  name: Potion of Pass without trace
+  value: 50
+- min_roll: 31
+  max_roll: 32
+  name: Potion of Protection from <Alignment>
+  value: 50
+- min_roll: 33
+  max_roll: 34
+  name: Potion of Remove fear
+  value: 50
+- min_roll: 35
+  max_roll: 35
+  name: Potion of Sanctuary
+  value: 50
+- min_roll: 36
+  max_roll: 38
+  name: Potion of Shield of faith +2
+  value: 50
+- min_roll: 39
+  max_roll: 39
+  name: Oil of Shillelagh
+  value: 50
+- min_roll: 40
+  max_roll: 41
+  name: Oil of Bless weapon
+  value: 100
+- min_roll: 42
+  max_roll: 44
+  name: Potion of Enlarge person
+  value: 250
+- min_roll: 45
+  max_roll: 45
+  name: Potion of Reduce person
+  value: 250
+- min_roll: 46
+  max_roll: 47
+  name: Potion of Aid
+  value: 300
+- min_roll: 48
+  max_roll: 50
+  name: Potion of Barkskin +2
+  value: 300
+- min_roll: 51
+  max_roll: 53
+  name: Potion of Bear's endurance
+  value: 300
+- min_roll: 54
+  max_roll: 56
+  name: Potion of Blur
+  value: 300
+- min_roll: 57
+  max_roll: 59
+  name: Potion of Bull's strength
+  value: 300
+- min_roll: 60
+  max_roll: 62
+  name: Potion of Cat's grace
+  value: 300
+- min_roll: 63
+  max_roll: 67
+  name: Potion of Cure moderate wounds
+  value: 300
+- min_roll: 68
+  max_roll: 68
+  name: Oil of Darkness
+  value: 300
+- min_roll: 69
+  max_roll: 71
+  name: Potion of Darkvision
+  value: 300
+- min_roll: 72
+  max_roll: 74
+  name: Potion of Delay poison
+  value: 300
+- min_roll: 75
+  max_roll: 76
+  name: Potion of Eagle's splendor
+  value: 300
+- min_roll: 77
+  max_roll: 78
+  name: Potion of Fox's cunning
+  value: 300
+- min_roll: 79
+  max_roll: 80
+  name: Potion of Invisibility
+  value: 300
+- min_roll: 81
+  max_roll: 81
+  name: Oil of Invisibility
+  value: 300
+- min_roll: 82
+  max_roll: 84
+  name: Potion of restoration
+  value: 300
+- min_roll: 85
+  max_roll: 85
+  name: Potion of Levitate
+  value: 300
+- min_roll: 86
+  max_roll: 86
+  name: Oil of Levitate
+  value: 300
+- min_roll: 87
+  max_roll: 87
+  name: Potion of Misdirection
+  value: 300
+- min_roll: 88
+  max_roll: 89
+  name: Potion of Owl's wisdom
+  value: 300
+- min_roll: 90
+  max_roll: 91
+  name: Potion of Protection from arrows 10/magic
+  value: 300
+- min_roll: 92
+  max_roll: 93
+  name: Potion of Remove paralysis
+  value: 300
+- min_roll: 94
+  max_roll: 96
+  name: Potion of Resist energy <Energy> 10(potion)
+  value: 300
+- min_roll: 97
+  max_roll: 97
+  name: Potion of Shield of faith +3
+  value: 300
+- min_roll: 98
+  max_roll: 99
+  name: Potion of Spider climb
+  value: 300
+- min_roll: 100
+  max_roll: 100
+  name: Potion of Undetectable alignment
+  value: 300
+source: DMG
+page: 230
+table: 7-17
+name: DMG Minor Potions
+roll_die: d100

@@ -1,0 +1,54 @@
+entries:
+- min_roll: 1
+  max_roll: 1
+  name: Padded Armor
+  value: 155
+- min_roll: 2
+  max_roll: 2
+  name: Leather Armor
+  value: 160
+- min_roll: 3
+  max_roll: 17
+  name: Studded Leather Armor
+  value: 175
+- min_roll: 18
+  max_roll: 32
+  name: Chain Shirt
+  value: 250
+- min_roll: 33
+  max_roll: 42
+  name: Hide Armor
+  value: 165
+- min_roll: 43
+  max_roll: 43
+  name: Scale mail
+  value: 200
+- min_roll: 44
+  max_roll: 44
+  name: Chainmail
+  value: 300
+- min_roll: 45
+  max_roll: 57
+  name: Breastplate
+  value: 350
+- min_roll: 58
+  max_roll: 58
+  name: Splint mail
+  value: 350
+- min_roll: 59
+  max_roll: 59
+  name: Banded mail
+  value: 400
+- min_roll: 60
+  max_roll: 60
+  name: Half-plate
+  value: 750
+- min_roll: 61
+  max_roll: 100
+  name: Full plate
+  value: 1650
+source: DMG
+page: 216
+table: 7-3
+name: DMG Armor Types
+roll_die: d100
