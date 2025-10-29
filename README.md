@@ -1,89 +1,115 @@
-# DnD_Treasure_Generator_3.5
-Treasure Generator for Dungeons and Dragons 3.5
+# D&D 3.5 Treasure Generator
 
-I haven't worked on this in years and probably won't unless interest is expressed by others.
+Python CLI tool for generating random treasure hoards for Dungeons & Dragons 3.5 edition.
+
+## Installation
+
+This project uses [uv](https://github.com/astral-sh/uv) for Python package management.
+
+Install in development mode:
+
+```bash
+uv pip install -e .
+```
+
+This will install the `dnd-treasure` command and all dependencies.
+
+## Usage
+
+Generate treasure for a level 5 encounter:
+
+```bash
+python3 -m dnd_treasure.cli --level 5
+```
+
+Customize treasure types:
+
+```bash
+python3 -m dnd_treasure.cli --level 10 --coins double --items triple
+```
+
+Save output to file:
+
+```bash
+python3 -m dnd_treasure.cli --level 15 --output treasure.txt
+```
+
+Use a seed for reproducible results:
+
+```bash
+python3 -m dnd_treasure.cli --level 7 --seed 12345
+```
+
+## Options
+
+- `--level, -l`: Encounter level (1-20) **[required]**
+- `--coins`: Coin generation type (none/standard/double/triple) [default: standard]
+- `--goods`: Goods generation type (none/standard/double/triple) [default: standard]
+- `--items`: Items generation type (none/standard/double/triple) [default: standard]
+- `--seed`: Random seed for reproducible results
+- `--output, -o`: Output file path (default: stdout)
+
+## Development
+
+Run tests:
+
+```bash
+pytest
+```
+
+Run tests with coverage:
+
+```bash
+pytest --cov=dnd_treasure tests/
+```
+
+Run tests in verbose mode:
+
+```bash
+pytest -v
+```
+
+## Project Structure
+
+```
+dnd_treasure/
+├── core/          # Core generation logic (dice, coins, models, generator, keywords)
+├── data/          # YAML chart files and data loader
+│   └── charts/
+│       └── dmg/   # Dungeon Master's Guide charts
+└── formatters/    # Output formatters (text, base)
+```
+
+## Features
+
+- **Table-driven generation**: Uses YAML data files for extensibility
+- **DMG coin generation**: Implements standard D&D 3.5 treasure tables
+- **Keyword substitution**: Dynamic item names with {alignment}, {energy}, etc.
+- **Flexible treasure types**: None/standard/double/triple for coins, goods, and items
+- **Reproducible results**: Optional seed parameter for testing
+- **Clean architecture**: Modular design separating concerns
 
 ## TODO
--v 3.0 will have an additional source added to it.
 
--figure out how to have a multi-source item table while still keeping true to the tables presented in the source materials
+- [ ] Convert remaining DMG charts to YAML
+- [ ] Implement goods generation (gems, art objects)
+- [ ] Implement magic item generation (armor, weapons, potions, etc.)
+- [ ] Add EPH (Expanded Psionics Handbook) support
+- [ ] Add MIC (Magic Item Compendium) support
+- [ ] Add JSON output format
+- [ ] Create Claude Code skill for treasure generation
 
-## Changelog
+## License
 
-v 2.2.1   27 April 2015 (2 hours later)
---------
--Fixed bug with Rod names not appearing correctly
+MIT
 
--BUG1:Resolved? Due to the usage of different charts and different kinds of items, there is no way to truely make a multi-source treasure Generation at this time, however it now will choose the source every time items are generated (meaning 3 times for triple items) instead of all the same.
+---
 
+## Legacy Version
 
-v 2.2.0   27 April 2015
---------
-Streamlined, Consolidated, and updated code. All Magic Items now use charts to be generated.
-
-Code now similar between Psionic and Magic Treasure, should allow for easier updating in the future. 
-
-*BUG2:RESOLVED!
-Fix for BUG1 planned for next version.
-
-
-v 2.1.1   24 April 2015
---------
-Added weapon damage type to charts so that weapons meet proper prerequisites for special abilities(ie. Slashing for Keen)
-
-DMG Wonderous Items now use Charts similar to Psionic Items!
-
-v 2.1.0   20 November 2014
---------
-Added support for multiple source treasure generation
-
--can set percentage chance of using DMG or XPH as source for item generation
-
-*BUG1: will select all items from only one source in multi-source.
-       
-*BUG2: Discovered that on rare occasions, program ends up in infinite loop generating DMG armor & possibly DMG weapons.
-
-v 2.0.0   19 November 2014
---------
-Added Support for Psionic items!
-
--All Items and charts found in the Expanded Psionics Handbook
-
--Most Resources kept in Chart files found in Charts sub directory
-
-New File Menu Added
-
--Export moved to be File Menu Item
-
--Exit menu item
-
-
-v 1.0.3   15 June 2012
---------
-Added Menu Items
-
--Export: same as the button from 1.0.2
-
--Options
-
---Keep: Doesn't clear list before adding next generation
-
---Freeze: no change to that list on generation
-
--Clear: clears lists
-
-v 1.0.2
---------
-Added Export Capabilities to export treasure list as text file
-
-v 1.0.1
---------
-Added support for "Triple Standard" treasure
-
-Update to remove duplicate "No Coins"
-
-V 1.0.0
---------
-Initial Release
-
-Includes Random Treasure from Dungeon Masters Guide
+The original VB.NET version is in the `Treasure_Generator/` directory. This Python rewrite provides:
+- Modern CLI interface
+- Cross-platform compatibility
+- Extensible YAML-based data format
+- Comprehensive test coverage
+- Cleaner, more maintainable architecture
