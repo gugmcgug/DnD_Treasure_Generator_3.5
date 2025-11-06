@@ -1,0 +1,101 @@
+entries:
+- min_roll: 1
+  max_roll: 5
+  name: Arrows(50)
+  value: 350
+  flag: 4
+- min_roll: 6
+  max_roll: 8
+  name: Crossbow Bolts(50)
+  value: 350
+  flag: 4
+- min_roll: 9
+  max_roll: 10
+  name: Sling Bullets(50)
+  value: 350
+  flag: 2
+- min_roll: 11
+  max_roll: 15
+  name: Throwing Axe
+  value: 308
+  flag: 1
+- min_roll: 16
+  max_roll: 25
+  name: Heavy Crossbow
+  value: 350
+  flag: 4
+- min_roll: 26
+  max_roll: 35
+  name: Light Crossbow
+  value: 335
+  flag: 4
+- min_roll: 36
+  max_roll: 39
+  name: Dart
+  value: 301
+  flag: 4
+- min_roll: 40
+  max_roll: 41
+  name: Javelin
+  value: 301
+  flag: 4
+- min_roll: 42
+  max_roll: 46
+  name: Shortbow
+  value: 330
+  flag: 4
+- min_roll: 47
+  max_roll: 51
+  name: Composite Shortbow
+  value: 375
+  flag: 4
+- min_roll: 52
+  max_roll: 56
+  name: Composite Shortbow(+1 Str bonus)
+  value: 450
+  flag: 4
+- min_roll: 57
+  max_roll: 61
+  name: Composite Shortbow(+2 Str bonus)
+  value: 525
+  flag: 4
+- min_roll: 62
+  max_roll: 65
+  name: Sling
+  value: 300
+  flag: 2
+- min_roll: 66
+  max_roll: 75
+  name: Longbow
+  value: 375
+  flag: 4
+- min_roll: 76
+  max_roll: 80
+  name: Composite Longbow
+  value: 400
+  flag: 4
+- min_roll: 81
+  max_roll: 85
+  name: Composite Longbow(+1 Str bonus)
+  value: 500
+  flag: 4
+- min_roll: 86
+  max_roll: 90
+  name: Composite Longbow(+2 Str bonus)
+  value: 600
+  flag: 4
+- min_roll: 91
+  max_roll: 95
+  name: Composite Longbow(+3 Str bonus)
+  value: 700
+  flag: 4
+- min_roll: 96
+  max_roll: 100
+  name: Composite Longbow(+4 Str bonus)
+  value: 800
+  flag: 4
+source: DMG
+page: 223
+table: 7-13
+name: DMG Ranged Weapons
+roll_die: d100

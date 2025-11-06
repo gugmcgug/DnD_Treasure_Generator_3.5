@@ -1,0 +1,122 @@
+entries:
+- min_roll: 1
+  max_roll: 2
+  name: Ring of Minor Energy resistance
+  value: 12000
+- min_roll: 3
+  max_roll: 7
+  name: Ring of Protection +3
+  value: 18000
+- min_roll: 8
+  max_roll: 10
+  name: Ring of Minor Spell storing
+  value: 18000
+- min_roll: 11
+  max_roll: 15
+  name: Ring of Invisibility
+  value: 20000
+- min_roll: 16
+  max_roll: 19
+  name: Ring of Wizardry (I)
+  value: 20000
+- min_roll: 20
+  max_roll: 25
+  name: Ring of Evasion
+  value: 25000
+- min_roll: 26
+  max_roll: 28
+  name: Ring of X-ray vision
+  value: 25000
+- min_roll: 29
+  max_roll: 32
+  name: Ring of Blinking
+  value: 27000
+- min_roll: 33
+  max_roll: 39
+  name: Ring of Major Energy resistance
+  value: 28000
+- min_roll: 40
+  max_roll: 49
+  name: Ring of Protection +4
+  value: 32000
+- min_roll: 50
+  max_roll: 55
+  name: Ring of Wizardry (II)
+  value: 40000
+- min_roll: 56
+  max_roll: 60
+  name: Ring of Freedom of movement
+  value: 40000
+- min_roll: 61
+  max_roll: 63
+  name: Ring of Greater Energy resistance
+  value: 44000
+- min_roll: 64
+  max_roll: 65
+  name: Rings of Friend shield (pair)
+  value: 50000
+- min_roll: 66
+  max_roll: 70
+  name: Ring of Protection +5
+  value: 50000
+- min_roll: 71
+  max_roll: 74
+  name: Ring of Shooting stars
+  value: 50000
+- min_roll: 75
+  max_roll: 79
+  name: Ring of Spell storing
+  value: 50000
+- min_roll: 80
+  max_roll: 83
+  name: Ring of Wizardry (III)
+  value: 70000
+- min_roll: 84
+  max_roll: 86
+  name: Ring of Telekinesis
+  value: 75000
+- min_roll: 87
+  max_roll: 88
+  name: Ring of Regeneration
+  value: 90000
+- min_roll: 89
+  max_roll: 89
+  name: Ring of Three wishes
+  value: 97950
+- min_roll: 90
+  max_roll: 92
+  name: Ring of Spell turning
+  value: 98280
+- min_roll: 93
+  max_roll: 94
+  name: Ring of Wizardry (IV)
+  value: 100000
+- min_roll: 95
+  max_roll: 95
+  name: Ring of Djinni calling
+  value: 125000
+- min_roll: 96
+  max_roll: 96
+  name: Ring of Elemental command (air)
+  value: 200000
+- min_roll: 97
+  max_roll: 97
+  name: Ring of Elemental command (earth)
+  value: 200000
+- min_roll: 98
+  max_roll: 98
+  name: Ring of Elemental command (fire)
+  value: 200000
+- min_roll: 99
+  max_roll: 99
+  name: Ring of Elemental command (water)
+  value: 200000
+- min_roll: 100
+  max_roll: 100
+  name: Ring of Major Spell storing
+  value: 200000
+source: DMG
+page: 231
+table: 7-18
+name: DMG Major Rings
+roll_die: d100

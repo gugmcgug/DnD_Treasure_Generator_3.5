@@ -1,0 +1,406 @@
+entries:
+- min_roll: 1
+  max_roll: 1
+  name: Quaal's Feather Token, anchor
+  value: 50
+- min_roll: 2
+  max_roll: 2
+  name: Universal Solvent
+  value: 50
+- min_roll: 3
+  max_roll: 3
+  name: Elixir of Love
+  value: 150
+- min_roll: 4
+  max_roll: 4
+  name: Unguent of timelessness
+  value: 150
+- min_roll: 5
+  max_roll: 5
+  name: Quaal's feather token, fan
+  value: 200
+- min_roll: 6
+  max_roll: 6
+  name: Dust of tracelessness
+  value: 250
+- min_roll: 7
+  max_roll: 7
+  name: Elixir of hiding
+  value: 250
+- min_roll: 8
+  max_roll: 8
+  name: Elixir of sneaking
+  value: 250
+- min_roll: 9
+  max_roll: 9
+  name: Elixir of swimming
+  value: 250
+- min_roll: 10
+  max_roll: 10
+  name: 'Elixir of vision '
+  value: 250
+- min_roll: 11
+  max_roll: 11
+  name: Silversheen
+  value: 250
+- min_roll: 12
+  max_roll: 12
+  name: Quaal's feather token, bird
+  value: 300
+- min_roll: 13
+  max_roll: 13
+  name: Quaal's feather token, tree
+  value: 400
+- min_roll: 14
+  max_roll: 14
+  name: Quaal's feather token, swan boat
+  value: 450
+- min_roll: 15
+  max_roll: 15
+  name: Elixir of truth
+  value: 500
+- min_roll: 16
+  max_roll: 16
+  name: Quaal's feather token, whip
+  value: 500
+- min_roll: 17
+  max_roll: 17
+  name: Dust of dryness
+  value: 850
+- min_roll: 18
+  max_roll: 18
+  name: Bag of tricks, gray
+  value: 900
+- min_roll: 19
+  max_roll: 19
+  name: Hand of the mage
+  value: 900
+- min_roll: 20
+  max_roll: 20
+  name: Bracers of armor +1
+  value: 1000
+- min_roll: 21
+  max_roll: 21
+  name: Cloak of resistance +1
+  value: 1000
+- min_roll: 22
+  max_roll: 22
+  name: Pearl of power, 1st-level spell
+  value: 1000
+- min_roll: 23
+  max_roll: 23
+  name: Phylactery of faithfulness
+  value: 1000
+- min_roll: 24
+  max_roll: 24
+  name: Salve of slipperiness
+  value: 1000
+- min_roll: 25
+  max_roll: 25
+  name: Elixir of fire breath
+  value: 1100
+- min_roll: 26
+  max_roll: 26
+  name: Pipes of the sewers
+  value: 1150
+- min_roll: 27
+  max_roll: 27
+  name: Dust of illusion
+  value: 1200
+- min_roll: 28
+  max_roll: 28
+  name: Goggles of minute seeing
+  value: 1250
+- min_roll: 29
+  max_roll: 29
+  name: Brooch of shielding
+  value: 1500
+- min_roll: 30
+  max_roll: 30
+  name: Necklace of fireballs type I
+  value: 1650
+- min_roll: 31
+  max_roll: 31
+  name: Dust of appearance
+  value: 1800
+- min_roll: 32
+  max_roll: 32
+  name: Hat of disguise
+  value: 1800
+- min_roll: 33
+  max_roll: 33
+  name: Pipes of sounding
+  value: 1800
+- min_roll: 34
+  max_roll: 34
+  name: Quiver of Ehlonna
+  value: 1800
+- min_roll: 35
+  max_roll: 35
+  name: Amulet of natural armor +1
+  value: 2000
+- min_roll: 36
+  max_roll: 36
+  name: Heward's handy haversack
+  value: 2000
+- min_roll: 37
+  max_roll: 37
+  name: Horn of fog
+  value: 2000
+- min_roll: 38
+  max_roll: 38
+  name: Elemental gem
+  value: 2250
+- min_roll: 39
+  max_roll: 39
+  name: Robe of bones
+  value: 2400
+- min_roll: 40
+  max_roll: 40
+  name: Sovereign glue
+  value: 2400
+- min_roll: 41
+  max_roll: 41
+  name: Bag of holding type I
+  value: 2500
+- min_roll: 42
+  max_roll: 42
+  name: Boots of elvenkind
+  value: 2500
+- min_roll: 43
+  max_roll: 43
+  name: Boots of the winterlands
+  value: 2500
+- min_roll: 44
+  max_roll: 44
+  name: Candle of truth
+  value: 2500
+- min_roll: 45
+  max_roll: 45
+  name: Cloak of elvenkind
+  value: 2500
+- min_roll: 46
+  max_roll: 46
+  name: Eyes of the eagle
+  value: 2500
+- min_roll: 47
+  max_roll: 47
+  name: Scarab, golembane
+  value: 2500
+- min_roll: 48
+  max_roll: 48
+  name: Necklace of fireballs type II
+  value: 2700
+- min_roll: 49
+  max_roll: 49
+  name: Stone of alarm
+  value: 2700
+- min_roll: 50
+  max_roll: 50
+  name: Bag of tricks, rust
+  value: 3000
+- min_roll: 51
+  max_roll: 51
+  name: Bead of force
+  value: 3000
+- min_roll: 52
+  max_roll: 52
+  name: Chime of opening
+  value: 3000
+- min_roll: 53
+  max_roll: 53
+  name: Horseshoes of speed
+  value: 3000
+- min_roll: 54
+  max_roll: 54
+  name: Rope of climbing
+  value: 3000
+- min_roll: 55
+  max_roll: 55
+  name: Dust of disappearance
+  value: 3500
+- min_roll: 56
+  max_roll: 56
+  name: Lens of detection
+  value: 3500
+- min_roll: 57
+  max_roll: 57
+  name: Vestment, druid's
+  value: 3750
+- min_roll: 58
+  max_roll: 58
+  name: Figurine of wondrous power, silver raven
+  value: 3800
+- min_roll: 59
+  max_roll: 59
+  name: Amulet of health +2
+  value: 4000
+- min_roll: 60
+  max_roll: 60
+  name: Bracers of armor +2
+  value: 4000
+- min_roll: 61
+  max_roll: 61
+  name: Cloak of Charisma +2
+  value: 4000
+- min_roll: 62
+  max_roll: 62
+  name: Cloak of resistance +2
+  value: 4000
+- min_roll: 63
+  max_roll: 63
+  name: Gauntlets of ogre power
+  value: 4000
+- min_roll: 64
+  max_roll: 64
+  name: Gloves of arrow snaring
+  value: 4000
+- min_roll: 65
+  max_roll: 65
+  name: Gloves of Dexterity +2
+  value: 4000
+- min_roll: 66
+  max_roll: 66
+  name: Headband of intellect +2
+  value: 4000
+- min_roll: 67
+  max_roll: 67
+  name: Ioun stone, clear spindle
+  value: 4000
+- min_roll: 68
+  max_roll: 68
+  name: Keoghtom's ointment
+  value: 4000
+- min_roll: 69
+  max_roll: 69
+  name: Nolzur's marvelous pigments
+  value: 4000
+- min_roll: 70
+  max_roll: 70
+  name: Pearl of power, 2nd-level spell
+  value: 4000
+- min_roll: 71
+  max_roll: 71
+  name: Periapt of Wisdom +2
+  value: 4000
+- min_roll: 72
+  max_roll: 72
+  name: Stone salve
+  value: 4000
+- min_roll: 73
+  max_roll: 73
+  name: Necklace of fireballs type III
+  value: 4350
+- min_roll: 74
+  max_roll: 74
+  name: Circlet of persuasion
+  value: 4500
+- min_roll: 75
+  max_roll: 75
+  name: Slippers of spider climbing
+  value: 4800
+- min_roll: 76
+  max_roll: 76
+  name: Incense of meditation
+  value: 4900
+- min_roll: 77
+  max_roll: 77
+  name: Bag of holding type II
+  value: 5000
+- min_roll: 78
+  max_roll: 78
+  name: Bracers of archery, lesser
+  value: 5000
+- min_roll: 79
+  max_roll: 79
+  name: Ioun stone, dusty rose prism
+  value: 5000
+- min_roll: 80
+  max_roll: 80
+  name: Helm of comprehend languages and read magic
+  value: 5200
+- min_roll: 81
+  max_roll: 81
+  name: Vest of escape
+  value: 5200
+- min_roll: 82
+  max_roll: 82
+  name: Eversmoking bottle
+  value: 5400
+- min_roll: 83
+  max_roll: 83
+  name: Murlynd's spoon
+  value: 5400
+- min_roll: 84
+  max_roll: 84
+  name: Necklace of fireballs type IV
+  value: 5400
+- min_roll: 85
+  max_roll: 85
+  name: Boots of striding and springing
+  value: 5500
+- min_roll: 86
+  max_roll: 86
+  name: Wind fan
+  value: 5500
+- min_roll: 87
+  max_roll: 87
+  name: Amulet of mighty fists +1
+  value: 6000
+- min_roll: 88
+  max_roll: 88
+  name: Horseshoes of a zephyr
+  value: 6000
+- min_roll: 89
+  max_roll: 89
+  name: Pipes of haunting
+  value: 6000
+- min_roll: 90
+  max_roll: 90
+  name: Necklace of fireballs type V
+  value: 6150
+- min_roll: 91
+  max_roll: 91
+  name: Gloves of swimming and climbing
+  value: 6250
+- min_roll: 92
+  max_roll: 92
+  name: Bag of tricks, tan
+  value: 6300
+- min_roll: 93
+  max_roll: 93
+  name: Circlet of blasting, minor
+  value: 6480
+- min_roll: 94
+  max_roll: 94
+  name: Horn of goodness/evil
+  value: 6500
+- min_roll: 95
+  max_roll: 95
+  name: Robe of useful items
+  value: 7000
+- min_roll: 96
+  max_roll: 96
+  name: Boat, Folding
+  value: 7200
+- min_roll: 97
+  max_roll: 97
+  name: Cloak of the manta ray
+  value: 7200
+- min_roll: 98
+  max_roll: 98
+  name: Bottle of air
+  value: 7250
+- min_roll: 99
+  max_roll: 99
+  name: Bag of holding type III
+  value: 7400
+- min_roll: 100
+  max_roll: 100
+  name: Periapt of health
+  value: 7400
+source: DMG
+page: null
+table: null
+name: DMG Minor Wonderous Items
+roll_die: d100

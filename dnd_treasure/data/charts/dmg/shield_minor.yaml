@@ -1,0 +1,38 @@
+entries:
+- min_roll: 1
+  max_roll: 20
+  name: ArrowCatching
+  value: 0
+- min_roll: 21
+  max_roll: 40
+  name: Bashing
+  value: 0
+- min_roll: 41
+  max_roll: 50
+  name: Blinding
+  value: 0
+- min_roll: 51
+  max_roll: 75
+  name: FortificationLight
+  value: 0
+- min_roll: 76
+  max_roll: 92
+  name: ArrowDeflection
+  value: 0
+- min_roll: 93
+  max_roll: 97
+  name: Animated
+  value: 0
+- min_roll: 98
+  max_roll: 99
+  name: SpellResistance13
+  value: 0
+- min_roll: 100
+  max_roll: 100
+  name: ROLLTWICE
+  value: 0
+source: DMG
+page: 218
+table: 7-6
+name: DMG Minor Magic Shields
+roll_die: d100

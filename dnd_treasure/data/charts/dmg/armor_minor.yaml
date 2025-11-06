@@ -1,0 +1,46 @@
+entries:
+- min_roll: 1
+  max_roll: 25
+  name: Glamered
+  value: 0
+- min_roll: 26
+  max_roll: 32
+  name: FortificationLight
+  value: 0
+- min_roll: 33
+  max_roll: 52
+  name: Slick
+  value: 0
+- min_roll: 53
+  max_roll: 72
+  name: Shadow
+  value: 0
+- min_roll: 73
+  max_roll: 92
+  name: SilentMoves
+  value: 0
+- min_roll: 93
+  max_roll: 96
+  name: SpellResistance13
+  value: 0
+- min_roll: 97
+  max_roll: 97
+  name: ImprovedSlick
+  value: 0
+- min_roll: 98
+  max_roll: 98
+  name: ImprovedShadow
+  value: 0
+- min_roll: 99
+  max_roll: 99
+  name: ImprovedSilentMoves
+  value: 0
+- min_roll: 100
+  max_roll: 100
+  name: ROLLTWICE
+  value: 0
+source: DMG
+page: 217
+table: 7-5
+name: DMG Minor Magic Armor
+roll_die: d100

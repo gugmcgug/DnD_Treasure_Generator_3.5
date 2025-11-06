@@ -1,0 +1,26 @@
+entries:
+- min_roll: 1
+  max_roll: 20
+  name: "Caster\x92s shield"
+  value: 3153
+- min_roll: 21
+  max_roll: 40
+  name: Spined shield
+  value: 5580
+- min_roll: 41
+  max_roll: 60
+  name: "Lion\x92s shield"
+  value: 9170
+- min_roll: 61
+  max_roll: 90
+  name: Winged shield
+  value: 17257
+- min_roll: 91
+  max_roll: 100
+  name: Absorbing shield
+  value: 50170
+source: DMG
+page: 221
+table: 7-8
+name: DMG Major Specific Shields
+roll_die: d100

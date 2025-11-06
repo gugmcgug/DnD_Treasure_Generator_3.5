@@ -1,0 +1,38 @@
+entries:
+- min_roll: 1
+  max_roll: 15
+  name: Sleep arrow (<Creature>)
+  value: 132
+- min_roll: 16
+  max_roll: 25
+  name: Screaming bolt
+  value: 267
+- min_roll: 26
+  max_roll: 45
+  name: Silver dagger, masterwork
+  value: 322
+- min_roll: 46
+  max_roll: 65
+  name: Masterwork Cold iron longsword
+  value: 330
+- min_roll: 66
+  max_roll: 75
+  name: Javelin of lightning
+  value: 1500
+- min_roll: 76
+  max_roll: 80
+  name: Slaying arrow
+  value: 2282
+- min_roll: 81
+  max_roll: 90
+  name: Adamantine dagger
+  value: 3002
+- min_roll: 91
+  max_roll: 100
+  name: Adamantine battleaxe
+  value: 3010
+source: DMG
+page: 227
+table: 7-16
+name: DMG Minor Specific Weapons
+roll_die: d100

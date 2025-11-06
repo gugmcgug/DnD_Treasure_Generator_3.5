@@ -1,0 +1,130 @@
+entries:
+- min_roll: 1
+  max_roll: 5
+  name: Aberrations
+  value: 0
+- min_roll: 6
+  max_roll: 9
+  name: Animals
+  value: 0
+- min_roll: 10
+  max_roll: 16
+  name: Constructs
+  value: 0
+- min_roll: 17
+  max_roll: 22
+  name: Dragons
+  value: 0
+- min_roll: 23
+  max_roll: 27
+  name: Elementals
+  value: 0
+- min_roll: 28
+  max_roll: 32
+  name: Fey
+  value: 0
+- min_roll: 33
+  max_roll: 39
+  name: Giants
+  value: 0
+- min_roll: 40
+  max_roll: 40
+  name: Aquatic Humanoid
+  value: 0
+- min_roll: 41
+  max_roll: 42
+  name: Dwarf
+  value: 0
+- min_roll: 43
+  max_roll: 44
+  name: Elf
+  value: 0
+- min_roll: 45
+  max_roll: 45
+  name: Gnoll
+  value: 0
+- min_roll: 46
+  max_roll: 46
+  name: Gnome
+  value: 0
+- min_roll: 47
+  max_roll: 49
+  name: Goblinoid
+  value: 0
+- min_roll: 50
+  max_roll: 50
+  name: Halfling
+  value: 0
+- min_roll: 51
+  max_roll: 54
+  name: Human
+  value: 0
+- min_roll: 55
+  max_roll: 57
+  name: Reptilian Humanoid
+  value: 0
+- min_roll: 58
+  max_roll: 60
+  name: Orc
+  value: 0
+- min_roll: 61
+  max_roll: 65
+  name: Magical beast
+  value: 0
+- min_roll: 66
+  max_roll: 70
+  name: Monstrous Humanoid
+  value: 0
+- min_roll: 71
+  max_roll: 72
+  name: Ooze
+  value: 0
+- min_roll: 73
+  max_roll: 73
+  name: Air Outsider
+  value: 0
+- min_roll: 74
+  max_roll: 76
+  name: Chaotic Outsider
+  value: 0
+- min_roll: 77
+  max_roll: 77
+  name: Earth Outsider
+  value: 0
+- min_roll: 78
+  max_roll: 80
+  name: Evil Outsider
+  value: 0
+- min_roll: 81
+  max_roll: 81
+  name: Fire Outsider
+  value: 0
+- min_roll: 82
+  max_roll: 84
+  name: Good Outsider
+  value: 0
+- min_roll: 85
+  max_roll: 87
+  name: Lawful Outsider
+  value: 0
+- min_roll: 88
+  max_roll: 88
+  name: Water Outsider
+  value: 0
+- min_roll: 89
+  max_roll: 90
+  name: Plant
+  value: 0
+- min_roll: 91
+  max_roll: 98
+  name: Undead
+  value: 0
+- min_roll: 99
+  max_roll: 100
+  name: Vermin
+  value: 0
+source: DMG
+page: 224
+table: '-'
+name: DMG Bane Creature Types
+roll_die: d100

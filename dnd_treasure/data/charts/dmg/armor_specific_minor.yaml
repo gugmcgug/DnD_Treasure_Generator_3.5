@@ -1,0 +1,18 @@
+entries:
+- min_roll: 1
+  max_roll: 50
+  name: Mithril Shirt
+  value: 1100
+- min_roll: 51
+  max_roll: 80
+  name: Dragonhide Plate
+  value: 3300
+- min_roll: 81
+  max_roll: 100
+  name: Elven Chain
+  value: 4150
+source: DMG
+page: 220
+table: 7-7
+name: DMG Minor Specific Armor
+roll_die: d100

@@ -1,0 +1,196 @@
+entries:
+- min_roll: 1
+  max_roll: 3
+  name: Orc Double Axe
+  value: 660
+  flag: 1
+- min_roll: 4
+  max_roll: 7
+  name: Battleaxe
+  value: 310
+  flag: 1
+- min_roll: 8
+  max_roll: 10
+  name: Spiked Chain
+  value: 325
+  flag: 4
+- min_roll: 11
+  max_roll: 12
+  name: Club
+  value: 300
+  flag: 2
+- min_roll: 13
+  max_roll: 16
+  name: Hand Crossbow
+  value: 400
+  flag: 4
+- min_roll: 17
+  max_roll: 19
+  name: Repeating Crossbow
+  value: 550
+  flag: 4
+- min_roll: 20
+  max_roll: 21
+  name: Punching Dagger
+  value: 302
+  flag: 4
+- min_roll: 22
+  max_roll: 23
+  name: Falchion
+  value: 375
+  flag: 1
+- min_roll: 24
+  max_roll: 26
+  name: Dire Flail
+  value: 690
+  flag: 2
+- min_roll: 27
+  max_roll: 31
+  name: Heavy Flail
+  value: 315
+  flag: 2
+- min_roll: 32
+  max_roll: 35
+  name: Light Flail
+  value: 308
+  flag: 2
+- min_roll: 36
+  max_roll: 37
+  name: Gauntlet
+  value: 302
+  flag: 2
+- min_roll: 38
+  max_roll: 39
+  name: Spiked Gauntlet
+  value: 305
+  flag: 4
+- min_roll: 40
+  max_roll: 41
+  name: Glaive
+  value: 308
+  flag: 1
+- min_roll: 42
+  max_roll: 43
+  name: Greatclub
+  value: 305
+  flag: 2
+- min_roll: 44
+  max_roll: 45
+  name: Guisarme
+  value: 309
+  flag: 1
+- min_roll: 46
+  max_roll: 48
+  name: Halberd
+  value: 310
+  flag: 5
+- min_roll: 49
+  max_roll: 51
+  name: Halfspear
+  value: 301
+  flag: 4
+- min_roll: 52
+  max_roll: 54
+  name: Gnome Hooked Hammer
+  value: 620
+  flag: 6
+- min_roll: 55
+  max_roll: 56
+  name: Light Hammer
+  value: 301
+  flag: 2
+- min_roll: 57
+  max_roll: 58
+  name: Handaxe
+  value: 306
+  flag: 1
+- min_roll: 59
+  max_roll: 61
+  name: Kukri
+  value: 308
+  flag: 1
+- min_roll: 62
+  max_roll: 64
+  name: Lance
+  value: 310
+  flag: 4
+- min_roll: 65
+  max_roll: 67
+  name: Longspear
+  value: 305
+  flag: 4
+- min_roll: 68
+  max_roll: 70
+  name: Morningstar
+  value: 308
+  flag: 6
+- min_roll: 71
+  max_roll: 72
+  name: Net
+  value: 320
+  flag: 0
+- min_roll: 73
+  max_roll: 74
+  name: Heavy Pick
+  value: 308
+  flag: 4
+- min_roll: 75
+  max_roll: 76
+  name: Light Pick
+  value: 304
+  flag: 4
+- min_roll: 77
+  max_roll: 78
+  name: Ranseur
+  value: 310
+  flag: 4
+- min_roll: 79
+  max_roll: 80
+  name: Sap
+  value: 301
+  flag: 2
+- min_roll: 81
+  max_roll: 82
+  name: Scythe
+  value: 318
+  flag: 5
+- min_roll: 83
+  max_roll: 84
+  name: Shuriken
+  value: 301
+  flag: 4
+- min_roll: 85
+  max_roll: 86
+  name: Sickle
+  value: 306
+  flag: 1
+- min_roll: 87
+  max_roll: 89
+  name: Two-Bladed Sword
+  value: 700
+  flag: 1
+- min_roll: 90
+  max_roll: 91
+  name: Trident
+  value: 315
+  flag: 4
+- min_roll: 92
+  max_roll: 94
+  name: Dwarven Urgrosh
+  value: 650
+  flag: 5
+- min_roll: 95
+  max_roll: 97
+  name: Warhammer
+  value: 312
+  flag: 2
+- min_roll: 98
+  max_roll: 100
+  name: Whip
+  value: 301
+  flag: 1
+source: DMG
+page: 222
+table: 7-12
+name: DMG Uncommon Melee Weapons
+roll_die: d100

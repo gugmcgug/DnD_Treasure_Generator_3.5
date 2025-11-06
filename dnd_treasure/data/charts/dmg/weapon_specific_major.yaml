@@ -1,0 +1,94 @@
+entries:
+- min_roll: 1
+  max_roll: 4
+  name: "Assassin\x92s dagger"
+  value: 10302
+- min_roll: 5
+  max_roll: 7
+  name: "Shifter\x92s sorrow"
+  value: 12780
+- min_roll: 8
+  max_roll: 9
+  name: Trident of fish command
+  value: 18650
+- min_roll: 10
+  max_roll: 13
+  name: Flame tongue
+  value: 20715
+- min_roll: 14
+  max_roll: 17
+  name: Luck blade (0 wishes)
+  value: 22060
+- min_roll: 18
+  max_roll: 24
+  name: Sword of subtlety
+  value: 22310
+- min_roll: 25
+  max_roll: 31
+  name: Sword of the planes
+  value: 22315
+- min_roll: 32
+  max_roll: 37
+  name: Nine lives stealer
+  value: 23057
+- min_roll: 38
+  max_roll: 42
+  name: Sword of life stealing
+  value: 25715
+- min_roll: 43
+  max_roll: 46
+  name: Oathbow
+  value: 25600
+- min_roll: 47
+  max_roll: 51
+  name: Mace of terror
+  value: 38552
+- min_roll: 52
+  max_roll: 57
+  name: Life-drinker
+  value: 40320
+- min_roll: 58
+  max_roll: 62
+  name: Sylvan scimitar
+  value: 47315
+- min_roll: 63
+  max_roll: 67
+  name: Rapier of puncturing
+  value: 50320
+- min_roll: 68
+  max_roll: 73
+  name: Sun blade
+  value: 50335
+- min_roll: 74
+  max_roll: 79
+  name: Frost brand
+  value: 54475
+- min_roll: 80
+  max_roll: 84
+  name: Dwarven thrower
+  value: 60312
+- min_roll: 85
+  max_roll: 91
+  name: Luck blade (1 wish)
+  value: 62360
+- min_roll: 92
+  max_roll: 95
+  name: Mace of smiting
+  value: 75312
+- min_roll: 96
+  max_roll: 97
+  name: Luck blade (2 wishes)
+  value: 102660
+- min_roll: 98
+  max_roll: 99
+  name: Holy avenger
+  value: 120630
+- min_roll: 100
+  max_roll: 100
+  name: Luck blade (3 wishes)
+  value: 142960
+source: DMG
+page: 227
+table: 7-16
+name: DMG Major Specific Weapons
+roll_die: d100

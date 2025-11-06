@@ -6,8 +6,13 @@ from pathlib import Path
 
 def parse_chart_file(file_path: Path) -> dict:
     """Parse a VB chart .txt file into a dictionary."""
-    with open(file_path, 'r') as f:
-        all_lines = [line.strip() for line in f if line.strip()]
+    # Try UTF-8 first, fall back to latin-1 for files with special characters
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            all_lines = [line.strip() for line in f if line.strip()]
+    except UnicodeDecodeError:
+        with open(file_path, 'r', encoding='latin-1') as f:
+            all_lines = [line.strip() for line in f if line.strip()]
 
     # Separate data lines from comment lines
     data_lines = [line for line in all_lines if not line.startswith('//')]
@@ -75,14 +80,80 @@ if __name__ == "__main__":
     output_base = Path("dnd_treasure/data/charts/dmg")
 
     conversions = [
-        ("DMGArmor.txt", "armor.yaml", "DMG Armor Types"),
-        ("DMGPotionsMin.txt", "potions_minor.yaml", "DMG Minor Potions"),
-        ("DMGAlignments.txt", "alignments.yaml", "DMG Alignments"),
+        # Already converted
+        # ("DMGArmor.txt", "armor.yaml", "DMG Armor Types"),
+        # ("DMGPotionsMin.txt", "potions_minor.yaml", "DMG Minor Potions"),
+        # ("DMGAlignments.txt", "alignments.yaml", "DMG Alignments"),
+
+        # Keyword reference charts
+        ("DMGEnergy.txt", "energy.yaml", "DMG Energy Types"),
+        ("DMGBaneCreatureType.txt", "bane_creature_type.yaml", "DMG Bane Creature Types"),
+
+        # Potion charts
+        ("DMGPotionsMed.txt", "potions_medium.yaml", "DMG Medium Potions"),
+        ("DMGPotionsMaj.txt", "potions_major.yaml", "DMG Major Potions"),
+
+        # Weapon charts
+        ("DMGComMeleeWeapons.txt", "common_melee_weapons.yaml", "DMG Common Melee Weapons"),
+        ("DMGUncMeleeWeapons.txt", "uncommon_melee_weapons.yaml", "DMG Uncommon Melee Weapons"),
+        ("DMGRangedWeapons.txt", "ranged_weapons.yaml", "DMG Ranged Weapons"),
+        ("DMGMeleeWepMin.txt", "melee_weapon_minor.yaml", "DMG Minor Magic Melee Weapons"),
+        ("DMGMeleeWepMed.txt", "melee_weapon_medium.yaml", "DMG Medium Magic Melee Weapons"),
+        ("DMGMeleeWepMaj.txt", "melee_weapon_major.yaml", "DMG Major Magic Melee Weapons"),
+        ("DMGRangedWepMin.txt", "ranged_weapon_minor.yaml", "DMG Minor Magic Ranged Weapons"),
+        ("DMGRangedWepMed.txt", "ranged_weapon_medium.yaml", "DMG Medium Magic Ranged Weapons"),
+        ("DMGRangedWepMaj.txt", "ranged_weapon_major.yaml", "DMG Major Magic Ranged Weapons"),
+        ("DMGWepSpecificMin.txt", "weapon_specific_minor.yaml", "DMG Minor Specific Weapons"),
+        ("DMGWepSpecificMed.txt", "weapon_specific_medium.yaml", "DMG Medium Specific Weapons"),
+        ("DMGWepSpecificMaj.txt", "weapon_specific_major.yaml", "DMG Major Specific Weapons"),
+
+        # Armor charts
+        ("DMGArmorMin.txt", "armor_minor.yaml", "DMG Minor Magic Armor"),
+        ("DMGArmorMed.txt", "armor_medium.yaml", "DMG Medium Magic Armor"),
+        ("DMGArmorMaj.txt", "armor_major.yaml", "DMG Major Magic Armor"),
+        ("DMGArmorSpecificMin.txt", "armor_specific_minor.yaml", "DMG Minor Specific Armor"),
+        ("DMGArmorSpecificMed.txt", "armor_specific_medium.yaml", "DMG Medium Specific Armor"),
+        ("DMGArmorSpecificMaj.txt", "armor_specific_major.yaml", "DMG Major Specific Armor"),
+
+        # Shield charts
+        ("DMGShields.txt", "shields.yaml", "DMG Shields"),
+        ("DMGShieldMin.txt", "shield_minor.yaml", "DMG Minor Magic Shields"),
+        ("DMGShieldMed.txt", "shield_medium.yaml", "DMG Medium Magic Shields"),
+        ("DMGShieldMaj.txt", "shield_major.yaml", "DMG Major Magic Shields"),
+        ("DMGShieldSpecificMin.txt", "shield_specific_minor.yaml", "DMG Minor Specific Shields"),
+        ("DMGShieldSpecificMed.txt", "shield_specific_medium.yaml", "DMG Medium Specific Shields"),
+        ("DMGShieldSpecificMaj.txt", "shield_specific_major.yaml", "DMG Major Specific Shields"),
+
+        # Rings
+        ("DMGRingsMin.txt", "rings_minor.yaml", "DMG Minor Rings"),
+        ("DMGRingsMed.txt", "rings_medium.yaml", "DMG Medium Rings"),
+        ("DMGRingsMaj.txt", "rings_major.yaml", "DMG Major Rings"),
+
+        # Rods
+        ("DMGRodsMed.txt", "rods_medium.yaml", "DMG Medium Rods"),
+        ("DMGRodsMaj.txt", "rods_major.yaml", "DMG Major Rods"),
+
+        # Staffs
+        ("DMGStaffsMed.txt", "staffs_medium.yaml", "DMG Medium Staffs"),
+        ("DMGStaffsMaj.txt", "staffs_major.yaml", "DMG Major Staffs"),
+
+        # Wands
+        ("DMGWandsMin.txt", "wands_minor.yaml", "DMG Minor Wands"),
+        ("DMGWandsMed.txt", "wands_medium.yaml", "DMG Medium Wands"),
+        ("DMGWandsMaj.txt", "wands_major.yaml", "DMG Major Wands"),
+
+        # Wonderous Items
+        ("DMGWonderousMin.txt", "wonderous_minor.yaml", "DMG Minor Wonderous Items"),
+        ("DMGWonderousMed.txt", "wonderous_medium.yaml", "DMG Medium Wonderous Items"),
+        ("DMGWonderousMaj.txt", "wonderous_major.yaml", "DMG Major Wonderous Items"),
     ]
 
     for input_file, output_file, name in conversions:
-        convert_chart(
-            charts_base / input_file,
-            output_base / output_file,
-            name
-        )
+        try:
+            convert_chart(
+                charts_base / input_file,
+                output_base / output_file,
+                name
+            )
+        except Exception as e:
+            print(f"Error converting {input_file}: {e}")

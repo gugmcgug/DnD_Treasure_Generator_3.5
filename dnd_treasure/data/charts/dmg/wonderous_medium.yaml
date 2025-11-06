@@ -1,0 +1,406 @@
+entries:
+- min_roll: 1
+  max_roll: 1
+  name: Boots of levitation
+  value: 7500
+- min_roll: 2
+  max_roll: 2
+  name: Harp of charming
+  value: 7500
+- min_roll: 3
+  max_roll: 3
+  name: Amulet of natural armor +2
+  value: 8000
+- min_roll: 4
+  max_roll: 4
+  name: Golem manual, flesh
+  value: 8000
+- min_roll: 5
+  max_roll: 5
+  name: Hand of glory
+  value: 8000
+- min_roll: 6
+  max_roll: 6
+  name: Ioun stone, deep red sphere
+  value: 8000
+- min_roll: 7
+  max_roll: 7
+  name: Ioun stone, incandescent blue sphere
+  value: 8000
+- min_roll: 8
+  max_roll: 8
+  name: Ioun stone, pale blue rhomboid
+  value: 8000
+- min_roll: 9
+  max_roll: 9
+  name: Ioun stone, pink and green sphere
+  value: 8000
+- min_roll: 10
+  max_roll: 10
+  name: Ioun stone, pink rhomboid
+  value: 8000
+- min_roll: 11
+  max_roll: 11
+  name: Ioun stone, scarlet and blue sphere
+  value: 8000
+- min_roll: 12
+  max_roll: 12
+  name: Deck of illusions
+  value: 8100
+- min_roll: 13
+  max_roll: 13
+  name: Necklace of fireballs type VI
+  value: 8100
+- min_roll: 14
+  max_roll: 14
+  name: Candle of invocation
+  value: 8400
+- min_roll: 15
+  max_roll: 15
+  name: Bracers of armor +3
+  value: 9000
+- min_roll: 16
+  max_roll: 16
+  name: Cloak of resistance +3
+  value: 9000
+- min_roll: 17
+  max_roll: 17
+  name: Decanter of endless water
+  value: 9000
+- min_roll: 18
+  max_roll: 18
+  name: Necklace of adaptation
+  value: 9000
+- min_roll: 19
+  max_roll: 19
+  name: Pearl of power, 3rd-level spell
+  value: 9000
+- min_roll: 20
+  max_roll: 20
+  name: Talisman of the sphere
+  value: 9000
+- min_roll: 21
+  max_roll: 21
+  name: Figurine of wondrous power, serpentine owl
+  value: 9100
+- min_roll: 22
+  max_roll: 22
+  name: Necklace of fireballs type VII
+  value: 9150
+- min_roll: 23
+  max_roll: 23
+  name: Strand of prayer beads, lesser
+  value: 9600
+- min_roll: 24
+  max_roll: 24
+  name: Bag of holding type IV
+  value: 10000
+- min_roll: 25
+  max_roll: 25
+  name: Figurine of wondrous power, bronze griffon
+  value: 10000
+- min_roll: 26
+  max_roll: 26
+  name: Figurine of wondrous power, ebony fly
+  value: 10000
+- min_roll: 27
+  max_roll: 27
+  name: Glove of storing
+  value: 10000
+- min_roll: 28
+  max_roll: 28
+  name: Ioun stone, dark blue rhomboid
+  value: 10000
+- min_roll: 29
+  max_roll: 29
+  name: Stone horse, courser
+  value: 10000
+- min_roll: 30
+  max_roll: 30
+  name: Cape of the mountebank
+  value: 10080
+- min_roll: 31
+  max_roll: 31
+  name: Phylactery of undead turning
+  value: 11000
+- min_roll: 32
+  max_roll: 32
+  name: Gauntlet of rust
+  value: 11500
+- min_roll: 33
+  max_roll: 33
+  name: Boots of speed
+  value: 12000
+- min_roll: 34
+  max_roll: 34
+  name: Goggles of night
+  value: 12000
+- min_roll: 35
+  max_roll: 35
+  name: Golem manual, clay
+  value: 12000
+- min_roll: 36
+  max_roll: 36
+  name: Medallion of thoughts
+  value: 12000
+- min_roll: 37
+  max_roll: 37
+  name: Pipes of pain
+  value: 12000
+- min_roll: 38
+  max_roll: 38
+  name: Boccob's blessed book
+  value: 12500
+- min_roll: 39
+  max_roll: 39
+  name: Belt, monk's
+  value: 13000
+- min_roll: 40
+  max_roll: 40
+  name: Gem of brightness
+  value: 13000
+- min_roll: 41
+  max_roll: 41
+  name: Lyre of building
+  value: 13000
+- min_roll: 42
+  max_roll: 42
+  name: Cloak of arachnida
+  value: 14000
+- min_roll: 43
+  max_roll: 43
+  name: Stone horse, destrier
+  value: 14800
+- min_roll: 44
+  max_roll: 44
+  name: Belt of dwarvenkind
+  value: 14900
+- min_roll: 45
+  max_roll: 45
+  name: Periapt of wound closure
+  value: 15000
+- min_roll: 46
+  max_roll: 46
+  name: Horn of the tritons
+  value: 15100
+- min_roll: 47
+  max_roll: 47
+  name: Pearl of the sirines
+  value: 15300
+- min_roll: 48
+  max_roll: 48
+  name: Figurine of wondrous power, onyx dog
+  value: 15500
+- min_roll: 49
+  max_roll: 49
+  name: Amulet of health +4
+  value: 16000
+- min_roll: 50
+  max_roll: 50
+  name: Belt of giant Strength +4
+  value: 16000
+- min_roll: 51
+  max_roll: 51
+  name: Boots, winged
+  value: 16000
+- min_roll: 52
+  max_roll: 52
+  name: Bracers of armor +4
+  value: 16000
+- min_roll: 53
+  max_roll: 53
+  name: Cloak of Charisma +4
+  value: 16000
+- min_roll: 54
+  max_roll: 54
+  name: Cloak of resistance +4
+  value: 16000
+- min_roll: 55
+  max_roll: 55
+  name: Gloves of Dexterity +4
+  value: 16000
+- min_roll: 56
+  max_roll: 56
+  name: Headband of intellect +4
+  value: 16000
+- min_roll: 57
+  max_roll: 57
+  name: Pearl of power, 4th-level spell
+  value: 16000
+- min_roll: 58
+  max_roll: 58
+  name: Periapt of Wisdom +4
+  value: 16000
+- min_roll: 59
+  max_roll: 59
+  name: Scabbard of keen edges
+  value: 16000
+- min_roll: 60
+  max_roll: 60
+  name: Figurine of wondrous power, golden lions
+  value: 16500
+- min_roll: 61
+  max_roll: 61
+  name: Chime of interruption
+  value: 16800
+- min_roll: 62
+  max_roll: 62
+  name: Broom of flying
+  value: 17000
+- min_roll: 63
+  max_roll: 63
+  name: Figurine of wondrous power, marble elephant
+  value: 17000
+- min_roll: 64
+  max_roll: 64
+  name: Amulet of natural armor +3
+  value: 18000
+- min_roll: 65
+  max_roll: 65
+  name: Ioun stone, iridescent spindle
+  value: 18000
+- min_roll: 66
+  max_roll: 66
+  name: Bracelet of friends
+  value: 19000
+- min_roll: 67
+  max_roll: 67
+  name: Carpet of flying, 5 ft. by 5 ft.
+  value: 20000
+- min_roll: 68
+  max_roll: 68
+  name: Horn of blasting
+  value: 20000
+- min_roll: 69
+  max_roll: 69
+  name: Ioun stone, pale lavender ellipsoid
+  value: 20000
+- min_roll: 70
+  max_roll: 70
+  name: Ioun stone, pearly white spindle
+  value: 20000
+- min_roll: 71
+  max_roll: 71
+  name: Portable hole
+  value: 20000
+- min_roll: 72
+  max_roll: 72
+  name: Stone of good luck (luckstone)
+  value: 20000
+- min_roll: 73
+  max_roll: 73
+  name: Figurine of wondrous power, ivory goats
+  value: 21000
+- min_roll: 74
+  max_roll: 74
+  name: Rope of entanglement
+  value: 21000
+- min_roll: 75
+  max_roll: 75
+  name: Golem manual, stone
+  value: 22000
+- min_roll: 76
+  max_roll: 76
+  name: Mask of the skull
+  value: 22000
+- min_roll: 77
+  max_roll: 77
+  name: Mattock of the titans
+  value: 23348
+- min_roll: 78
+  max_roll: 78
+  name: Circlet of blasting, major
+  value: 23760
+- min_roll: 79
+  max_roll: 79
+  name: Amulet of mighty fists +2
+  value: 24000
+- min_roll: 80
+  max_roll: 80
+  name: Cloak of displacement, minor
+  value: 24000
+- min_roll: 81
+  max_roll: 81
+  name: Helm of underwater action
+  value: 24000
+- min_roll: 82
+  max_roll: 82
+  name: Bracers of archery, greater
+  value: 25000
+- min_roll: 83
+  max_roll: 83
+  name: Bracers of armor +5
+  value: 25000
+- min_roll: 84
+  max_roll: 84
+  name: Cloak of resistance +5
+  value: 25000
+- min_roll: 85
+  max_roll: 85
+  name: Eyes of doom
+  value: 25000
+- min_roll: 86
+  max_roll: 86
+  name: Pearl of power, 5th-level spell
+  value: 25000
+- min_roll: 87
+  max_roll: 87
+  name: Maul of the titans
+  value: 25305
+- min_roll: 88
+  max_roll: 88
+  name: Strand of prayer beads
+  value: 25800
+- min_roll: 89
+  max_roll: 89
+  name: Cloak of the bat
+  value: 26000
+- min_roll: 90
+  max_roll: 90
+  name: Iron bands of Bilarro
+  value: 26000
+- min_roll: 91
+  max_roll: 91
+  name: Cube of frost resistance
+  value: 27000
+- min_roll: 92
+  max_roll: 92
+  name: Helm of telepathy
+  value: 27000
+- min_roll: 93
+  max_roll: 93
+  name: Periapt of proof against poison
+  value: 27000
+- min_roll: 94
+  max_roll: 94
+  name: Robe of scintillating colors
+  value: 27000
+- min_roll: 95
+  max_roll: 95
+  name: Manual of bodily health +1
+  value: 27500
+- min_roll: 96
+  max_roll: 96
+  name: Manual of gainful exercise +1
+  value: 27500
+- min_roll: 97
+  max_roll: 97
+  name: Manual of quickness in action +1
+  value: 27500
+- min_roll: 98
+  max_roll: 98
+  name: Tome of clear thought +1
+  value: 27500
+- min_roll: 99
+  max_roll: 99
+  name: Tome of leadership and influence +1
+  value: 27500
+- min_roll: 100
+  max_roll: 100
+  name: Tome of understanding +1
+  value: 27500
+source: DMG
+page: null
+table: null
+name: DMG Medium Wonderous Items
+roll_die: d100

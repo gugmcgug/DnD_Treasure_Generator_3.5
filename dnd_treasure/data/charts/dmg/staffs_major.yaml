@@ -1,0 +1,90 @@
+entries:
+- min_roll: 1
+  max_roll: 3
+  name: Charming
+  value: 16500
+- min_roll: 4
+  max_roll: 9
+  name: Fire
+  value: 17750
+- min_roll: 10
+  max_roll: 11
+  name: Swarming insects
+  value: 24750
+- min_roll: 12
+  max_roll: 17
+  name: Healing
+  value: 27750
+- min_roll: 18
+  max_roll: 19
+  name: Size alteration
+  value: 29000
+- min_roll: 20
+  max_roll: 24
+  name: Illumination
+  value: 48250
+- min_roll: 25
+  max_roll: 31
+  name: Frost
+  value: 56250
+- min_roll: 32
+  max_roll: 38
+  name: Defense
+  value: 58250
+- min_roll: 39
+  max_roll: 43
+  name: Abjuration
+  value: 65000
+- min_roll: 44
+  max_roll: 48
+  name: Conjuration
+  value: 65000
+- min_roll: 49
+  max_roll: 53
+  name: Enchantment
+  value: 65000
+- min_roll: 54
+  max_roll: 58
+  name: Evocation
+  value: 65000
+- min_roll: 59
+  max_roll: 63
+  name: Illusion
+  value: 65000
+- min_roll: 64
+  max_roll: 68
+  name: Necromancy
+  value: 65000
+- min_roll: 69
+  max_roll: 73
+  name: Transmutation
+  value: 65000
+- min_roll: 74
+  max_roll: 77
+  name: Divination
+  value: 73500
+- min_roll: 78
+  max_roll: 82
+  name: Earth and stone
+  value: 80500
+- min_roll: 83
+  max_roll: 87
+  name: Woodlands
+  value: 101250
+- min_roll: 88
+  max_roll: 92
+  name: Life
+  value: 155750
+- min_roll: 93
+  max_roll: 97
+  name: Passage
+  value: 170500
+- min_roll: 98
+  max_roll: 100
+  name: Power
+  value: 211000
+source: DMG
+page: 243
+table: 7-25
+name: DMG Major Staffs
+roll_die: d100

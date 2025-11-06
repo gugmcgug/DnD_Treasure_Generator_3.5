@@ -1,0 +1,186 @@
+entries:
+- min_roll: 1
+  max_roll: 2
+  name: Magic missile (CL 7)
+  value: 5250
+- min_roll: 3
+  max_roll: 5
+  name: Magic missile (CL 9)
+  value: 6750
+- min_roll: 6
+  max_roll: 7
+  name: Call lightning (CL 5)
+  value: 11250
+- min_roll: 8
+  max_roll: 8
+  name: Heightened charm person  (3rd-level spell)
+  value: 11250
+- min_roll: 9
+  max_roll: 10
+  name: Contagion
+  value: 11250
+- min_roll: 11
+  max_roll: 13
+  name: Cure serious wounds
+  value: 11250
+- min_roll: 14
+  max_roll: 15
+  name: Dispel magic
+  value: 11250
+- min_roll: 16
+  max_roll: 17
+  name: Fireball (CL 5)
+  value: 11250
+- min_roll: 18
+  max_roll: 19
+  name: Keen edge
+  value: 11250
+- min_roll: 20
+  max_roll: 21
+  name: Lightning bolt (CL 5)
+  value: 11250
+- min_roll: 22
+  max_roll: 23
+  name: Major image
+  value: 11250
+- min_roll: 24
+  max_roll: 25
+  name: Slow
+  value: 11250
+- min_roll: 26
+  max_roll: 27
+  name: Suggestion
+  value: 11250
+- min_roll: 28
+  max_roll: 29
+  name: Summon monster III
+  value: 11250
+- min_roll: 30
+  max_roll: 31
+  name: Fireball (CL 6)
+  value: 13500
+- min_roll: 32
+  max_roll: 33
+  name: Lightning bolt (CL 6h)
+  value: 13500
+- min_roll: 34
+  max_roll: 35
+  name: Searing light (CL 6)
+  value: 13500
+- min_roll: 36
+  max_roll: 37
+  name: Call lightning (CL 8)
+  value: 18000
+- min_roll: 38
+  max_roll: 39
+  name: Fireball (CL 8)
+  value: 18000
+- min_roll: 40
+  max_roll: 41
+  name: Lightning bolt (CL 8)
+  value: 18000
+- min_roll: 42
+  max_roll: 45
+  name: Charm monster
+  value: 21000
+- min_roll: 46
+  max_roll: 50
+  name: Cure critical wounds
+  value: 21000
+- min_roll: 51
+  max_roll: 52
+  name: Dimensional anchor
+  value: 21000
+- min_roll: 53
+  max_roll: 55
+  name: Fear
+  value: 21000
+- min_roll: 56
+  max_roll: 59
+  name: Greater invisibility
+  value: 21000
+- min_roll: 60
+  max_roll: 60
+  name: Heightened hold person (4th level)
+  value: 21000
+- min_roll: 61
+  max_roll: 65
+  name: Ice storm
+  value: 21000
+- min_roll: 66
+  max_roll: 68
+  name: Inflict critical wounds
+  value: 21000
+- min_roll: 69
+  max_roll: 72
+  name: Neutralize poison
+  value: 21000
+- min_roll: 73
+  max_roll: 74
+  name: Poison
+  value: 21000
+- min_roll: 75
+  max_roll: 77
+  name: Polymorph
+  value: 21000
+- min_roll: 78
+  max_roll: 78
+  name: Heightened ray of enfeeblement (4th level)
+  value: 21000
+- min_roll: 79
+  max_roll: 79
+  name: Heightened Suggestion (4th level)
+  value: 21000
+- min_roll: 80
+  max_roll: 82
+  name: Summon monster IV
+  value: 21000
+- min_roll: 83
+  max_roll: 86
+  name: Wall of fire
+  value: 21000
+- min_roll: 87
+  max_roll: 90
+  name: Wall of ice
+  value: 21000
+- min_roll: 91
+  max_roll: 91
+  name: Dispel magic (CL 10)
+  value: 22500
+- min_roll: 92
+  max_roll: 92
+  name: Fireball (CL 10)
+  value: 22500
+- min_roll: 93
+  max_roll: 93
+  name: Lightning bolt (CL 10)
+  value: 22500
+- min_roll: 94
+  max_roll: 94
+  name: Chaos hammer (CL 8)
+  value: 24000
+- min_roll: 95
+  max_roll: 95
+  name: Holy smite (CL 8)
+  value: 24000
+- min_roll: 96
+  max_roll: 96
+  name: Order's wrath (CL 8)
+  value: 24000
+- min_roll: 97
+  max_roll: 97
+  name: Unholy blight (CL 8)
+  value: 24000
+- min_roll: 98
+  max_roll: 99
+  name: Restoration
+  value: 26000
+- min_roll: 100
+  max_roll: 100
+  name: Stoneskin
+  value: 33500
+source: DMG
+page: 246
+table: 7-26
+name: DMG Major Wands
+roll_die: d100

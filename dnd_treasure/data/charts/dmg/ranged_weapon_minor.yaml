@@ -1,0 +1,46 @@
+entries:
+- min_roll: 1
+  max_roll: 12
+  name: Bane
+  value: 0
+- min_roll: 13
+  max_roll: 25
+  name: Distance
+  value: 0
+- min_roll: 26
+  max_roll: 40
+  name: Flaming
+  value: 0
+- min_roll: 41
+  max_roll: 55
+  name: Frost
+  value: 0
+- min_roll: 56
+  max_roll: 60
+  name: Merciful
+  value: 0
+- min_roll: 61
+  max_roll: 68
+  name: Returning
+  value: 0
+- min_roll: 69
+  max_roll: 83
+  name: Shock
+  value: 0
+- min_roll: 84
+  max_roll: 93
+  name: Seeking
+  value: 0
+- min_roll: 94
+  max_roll: 99
+  name: Thundering
+  value: 0
+- min_roll: 100
+  max_roll: 100
+  name: ROLLTWICE
+  value: 0
+source: DMG
+page: 223
+table: 7-15
+name: DMG Minor Magic Ranged Weapons
+roll_die: d100

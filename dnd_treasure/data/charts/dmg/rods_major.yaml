@@ -1,0 +1,122 @@
+entries:
+- min_roll: 1
+  max_roll: 4
+  name: Cancellation
+  value: 11000
+- min_roll: 5
+  max_roll: 6
+  name: Metamagic Rod (Enlarge)
+  value: 11000
+- min_roll: 7
+  max_roll: 8
+  name: Metamagic Rod (Extend)
+  value: 11000
+- min_roll: 9
+  max_roll: 10
+  name: Metamagic Rod (Silent)
+  value: 11000
+- min_roll: 11
+  max_roll: 14
+  name: Wonder
+  value: 12000
+- min_roll: 15
+  max_roll: 18
+  name: Python
+  value: 13000
+- min_roll: 19
+  max_roll: 21
+  name: Flame extinguishing
+  value: 15000
+- min_roll: 22
+  max_roll: 25
+  name: Viper
+  value: 19000
+- min_roll: 26
+  max_roll: 30
+  name: Enemy detection
+  value: 23500
+- min_roll: 31
+  max_roll: 36
+  name: Greater Metamagic Rod (Enlarge)
+  value: 24500
+- min_roll: 37
+  max_roll: 42
+  name: Greater Metamagic Rod (Extend)
+  value: 24500
+- min_roll: 43
+  max_roll: 48
+  name: Greater Metamagic Rod (Silent)
+  value: 24500
+- min_roll: 49
+  max_roll: 53
+  name: Splendor
+  value: 25000
+- min_roll: 54
+  max_roll: 58
+  name: Withering
+  value: 25000
+- min_roll: 59
+  max_roll: 64
+  name: Metamagic Rod (Empower)
+  value: 32500
+- min_roll: 65
+  max_roll: 69
+  name: Thunder and lightning
+  value: 33000
+- min_roll: 70
+  max_roll: 73
+  name: Lesser Metamagic Rod (Quicken)
+  value: 35000
+- min_roll: 74
+  max_roll: 77
+  name: Negation
+  value: 37000
+- min_roll: 78
+  max_roll: 80
+  name: Absorption
+  value: 50000
+- min_roll: 81
+  max_roll: 84
+  name: Flailing
+  value: 50000
+- min_roll: 85
+  max_roll: 86
+  name: Metamagic Rod (Maximize)
+  value: 54000
+- min_roll: 87
+  max_roll: 88
+  name: Rulership
+  value: 60000
+- min_roll: 89
+  max_roll: 90
+  name: Security
+  value: 61000
+- min_roll: 91
+  max_roll: 92
+  name: Lordly might
+  value: 70000
+- min_roll: 93
+  max_roll: 94
+  name: Greater Metamagic Rod (Empower)
+  value: 73000
+- min_roll: 95
+  max_roll: 96
+  name: Metamagic Rod (Quicken)
+  value: 75500
+- min_roll: 97
+  max_roll: 98
+  name: Alertness
+  value: 85000
+- min_roll: 99
+  max_roll: 99
+  name: Greater Metamagic Rod (Maximize)
+  value: 121500
+- min_roll: 100
+  max_roll: 100
+  name: Greater Metamagic Rod (Quicken)
+  value: 170000
+source: DMG
+page: 234
+table: 7-19
+name: DMG Major Rods
+roll_die: d100

@@ -1,0 +1,214 @@
+entries:
+- min_roll: 1
+  max_roll: 2
+  name: Oil of Bless weapon
+  value: 100
+- min_roll: 3
+  max_roll: 4
+  name: Potion of Enlarge person
+  value: 250
+- min_roll: 5
+  max_roll: 5
+  name: Potion of Reduce person
+  value: 250
+- min_roll: 6
+  max_roll: 6
+  name: Potion of Aid
+  value: 300
+- min_roll: 7
+  max_roll: 7
+  name: Potion of Barkskin +2
+  value: 300
+- min_roll: 8
+  max_roll: 10
+  name: Potion of Bear's endurance
+  value: 300
+- min_roll: 11
+  max_roll: 13
+  name: Potion of Blur
+  value: 300
+- min_roll: 14
+  max_roll: 16
+  name: Potion of Bull's strength
+  value: 300
+- min_roll: 17
+  max_roll: 19
+  name: Potion of Cat's grace
+  value: 300
+- min_roll: 20
+  max_roll: 27
+  name: Potion of Cure moderate wounds
+  value: 300
+- min_roll: 28
+  max_roll: 28
+  name: Oil of Darkness
+  value: 300
+- min_roll: 29
+  max_roll: 30
+  name: Potion of Darkvision
+  value: 300
+- min_roll: 31
+  max_roll: 31
+  name: Potion of Delay poison
+  value: 300
+- min_roll: 32
+  max_roll: 33
+  name: Potion of Eagle's splendor
+  value: 300
+- min_roll: 34
+  max_roll: 35
+  name: Potion of Fox's cunning
+  value: 300
+- min_roll: 36
+  max_roll: 37
+  name: <OilPotion> of Invisibility
+  value: 300
+- min_roll: 38
+  max_roll: 38
+  name: Potion of Lesser restoration
+  value: 300
+- min_roll: 39
+  max_roll: 39
+  name: <OilPotion> of Levitate
+  value: 300
+- min_roll: 40
+  max_roll: 40
+  name: Potion of Misdirection
+  value: 300
+- min_roll: 41
+  max_roll: 42
+  name: Potion of Owl's wisdom
+  value: 300
+- min_roll: 43
+  max_roll: 43
+  name: Potion of Protection from arrows 10/magic
+  value: 300
+- min_roll: 44
+  max_roll: 44
+  name: Potion of Remove paralysis
+  value: 300
+- min_roll: 45
+  max_roll: 46
+  name: Potion of Resist <Energy> 10
+  value: 300
+- min_roll: 47
+  max_roll: 48
+  name: Potion of Shield of faith +3
+  value: 300
+- min_roll: 49
+  max_roll: 49
+  name: Potion of Spider climb
+  value: 300
+- min_roll: 50
+  max_roll: 50
+  name: Potion of Undetectable alignment
+  value: 300
+- min_roll: 51
+  max_roll: 51
+  name: Potion of Barkskin +3
+  value: 600
+- min_roll: 52
+  max_roll: 52
+  name: Potion of Shield of faith +4
+  value: 600
+- min_roll: 53
+  max_roll: 55
+  name: Potion of Resist <Energy> 20
+  value: 700
+- min_roll: 56
+  max_roll: 60
+  name: Potion of Cure serious wounds
+  value: 750
+- min_roll: 61
+  max_roll: 61
+  name: Oil of Daylight
+  value: 750
+- min_roll: 62
+  max_roll: 64
+  name: Potion of Displacement
+  value: 750
+- min_roll: 65
+  max_roll: 65
+  name: Oil of Flame arrow
+  value: 750
+- min_roll: 66
+  max_roll: 68
+  name: Potion of Fly
+  value: 750
+- min_roll: 69
+  max_roll: 69
+  name: Potion of Gaseous form
+  value: 750
+- min_roll: 70
+  max_roll: 71
+  name: Potion of Greater magic fang +1
+  value: 750
+- min_roll: 72
+  max_roll: 73
+  name: Oil of Greater magic weapon +1
+  value: 750
+- min_roll: 74
+  max_roll: 75
+  name: Potion of Haste
+  value: 750
+- min_roll: 76
+  max_roll: 78
+  name: Potion of Heroism
+  value: 750
+- min_roll: 79
+  max_roll: 80
+  name: Oil of Keen edge
+  value: 750
+- min_roll: 81
+  max_roll: 81
+  name: Potion of Magic circle against <Alignment>
+  value: 750
+- min_roll: 82
+  max_roll: 83
+  name: Oil of Magic vestment +1
+  value: 750
+- min_roll: 84
+  max_roll: 86
+  name: Potion of Neutralize poison
+  value: 750
+- min_roll: 87
+  max_roll: 88
+  name: Potion of Nondetection
+  value: 750
+- min_roll: 89
+  max_roll: 91
+  name: Potion of Protection from <Energy>
+  value: 750
+- min_roll: 92
+  max_roll: 93
+  name: Potion of Rage
+  value: 750
+- min_roll: 94
+  max_roll: 94
+  name: Potion of Remove blindness/deafness
+  value: 750
+- min_roll: 95
+  max_roll: 95
+  name: Potion of Remove curse
+  value: 750
+- min_roll: 96
+  max_roll: 96
+  name: Potion of Remove disease
+  value: 750
+- min_roll: 97
+  max_roll: 97
+  name: Potion of Tongues
+  value: 750
+- min_roll: 98
+  max_roll: 99
+  name: Potion of Water breathing
+  value: 750
+- min_roll: 100
+  max_roll: 100
+  name: Potion of Water walk
+  value: 750
+source: DMG
+page: 230
+table: 7-17
+name: DMG Medium Potions
+roll_die: d100

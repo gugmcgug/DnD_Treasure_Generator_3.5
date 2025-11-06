@@ -1,0 +1,150 @@
+entries:
+- min_roll: 1
+  max_roll: 2
+  name: Detect magic
+  value: 375
+- min_roll: 3
+  max_roll: 4
+  name: Light
+  value: 375
+- min_roll: 5
+  max_roll: 7
+  name: Burning hands
+  value: 750
+- min_roll: 8
+  max_roll: 10
+  name: Charm animal
+  value: 750
+- min_roll: 11
+  max_roll: 13
+  name: Charm person
+  value: 750
+- min_roll: 14
+  max_roll: 16
+  name: Color spray
+  value: 750
+- min_roll: 17
+  max_roll: 19
+  name: Cure light wounds
+  value: 750
+- min_roll: 20
+  max_roll: 22
+  name: Detect secret doors
+  value: 750
+- min_roll: 23
+  max_roll: 25
+  name: Enlarge person
+  value: 750
+- min_roll: 26
+  max_roll: 28
+  name: Magic missile (CL 1)
+  value: 750
+- min_roll: 29
+  max_roll: 31
+  name: Shocking grasp
+  value: 750
+- min_roll: 32
+  max_roll: 34
+  name: Summon monster I
+  value: 750
+- min_roll: 35
+  max_roll: 36
+  name: Magic missile (CL 3)
+  value: 2250
+- min_roll: 37
+  max_roll: 37
+  name: Magic missile (CL 5)
+  value: 3750
+- min_roll: 38
+  max_roll: 40
+  name: Bear's endurance
+  value: 4500
+- min_roll: 41
+  max_roll: 43
+  name: Bull's strength
+  value: 4500
+- min_roll: 44
+  max_roll: 46
+  name: Cat's grace
+  value: 4500
+- min_roll: 47
+  max_roll: 49
+  name: Cure moderate wounds
+  value: 4500
+- min_roll: 50
+  max_roll: 51
+  name: Darkness
+  value: 4500
+- min_roll: 52
+  max_roll: 54
+  name: Daylight
+  value: 4500
+- min_roll: 55
+  max_roll: 57
+  name: Delay poison
+  value: 4500
+- min_roll: 58
+  max_roll: 60
+  name: Eagle's splendor
+  value: 4500
+- min_roll: 61
+  max_roll: 63
+  name: False life
+  value: 4500
+- min_roll: 64
+  max_roll: 66
+  name: Fox's cunning
+  value: 4500
+- min_roll: 67
+  max_roll: 68
+  name: Ghoul touch
+  value: 4500
+- min_roll: 69
+  max_roll: 71
+  name: Hold person
+  value: 4500
+- min_roll: 72
+  max_roll: 74
+  name: Invisibility
+  value: 4500
+- min_roll: 75
+  max_roll: 77
+  name: Knock
+  value: 4500
+- min_roll: 78
+  max_roll: 80
+  name: Levitate
+  value: 4500
+- min_roll: 81
+  max_roll: 83
+  name: Melf's acid arrow
+  value: 4500
+- min_roll: 84
+  max_roll: 86
+  name: Mirror image
+  value: 4500
+- min_roll: 87
+  max_roll: 89
+  name: Owl's wisdom
+  value: 4500
+- min_roll: 90
+  max_roll: 91
+  name: Shatter
+  value: 4500
+- min_roll: 92
+  max_roll: 94
+  name: Silence
+  value: 4500
+- min_roll: 95
+  max_roll: 97
+  name: Summon monster II
+  value: 4500
+- min_roll: 98
+  max_roll: 100
+  name: Web
+  value: 4500
+source: DMG
+page: 246
+table: 7-26
+name: DMG Minor Wands
+roll_die: d100

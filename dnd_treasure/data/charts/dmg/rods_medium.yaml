@@ -1,0 +1,74 @@
+entries:
+- min_roll: 1
+  max_roll: 7
+  name: Lesser Metamagic Rod(Enlarge)
+  value: 3000
+- min_roll: 8
+  max_roll: 14
+  name: Lesser Metamagic Rod(Extend)
+  value: 3000
+- min_roll: 15
+  max_roll: 21
+  name: Lesser Metamagic Rod(Silent)
+  value: 3000
+- min_roll: 22
+  max_roll: 28
+  name: Immovable
+  value: 5000
+- min_roll: 29
+  max_roll: 35
+  name: Lesser Metamagic Rod(Empower)
+  value: 9000
+- min_roll: 36
+  max_roll: 42
+  name: Metal and mineral detection
+  value: 10500
+- min_roll: 43
+  max_roll: 53
+  name: Cancellation
+  value: 11000
+- min_roll: 54
+  max_roll: 57
+  name: Metamagic Rod(Enlarge)
+  value: 11000
+- min_roll: 58
+  max_roll: 61
+  name: Metamagic Rod(Extend)
+  value: 11000
+- min_roll: 62
+  max_roll: 65
+  name: Metamagic Rod(Silent)
+  value: 11000
+- min_roll: 66
+  max_roll: 71
+  name: Wonder
+  value: 12000
+- min_roll: 72
+  max_roll: 79
+  name: Python
+  value: 13000
+- min_roll: 80
+  max_roll: 83
+  name: Lesser Metamagic Rod(Maximize)
+  value: 14000
+- min_roll: 84
+  max_roll: 89
+  name: Flame extinguishing
+  value: 15000
+- min_roll: 90
+  max_roll: 97
+  name: Viper
+  value: 19000
+- min_roll: 98
+  max_roll: 99
+  name: Metamagic Rod(Empower)
+  value: 32500
+- min_roll: 100
+  max_roll: 100
+  name: Lesser Metamagic Rod(Quicken)
+  value: 35000
+source: DMG
+page: 234
+table: 7-19
+name: DMG Medium Rods
+roll_die: d100

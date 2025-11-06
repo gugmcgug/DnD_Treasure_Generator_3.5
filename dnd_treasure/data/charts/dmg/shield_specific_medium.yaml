@@ -1,0 +1,34 @@
+entries:
+- min_roll: 1
+  max_roll: 20
+  name: Darkwood buckler
+  value: 205
+- min_roll: 21
+  max_roll: 45
+  name: Darkwood shield
+  value: 257
+- min_roll: 46
+  max_roll: 70
+  name: Mithral heavy shield
+  value: 1020
+- min_roll: 71
+  max_roll: 85
+  name: "Caster\x92s shield"
+  value: 3153
+- min_roll: 86
+  max_roll: 90
+  name: Spined shield
+  value: 5580
+- min_roll: 91
+  max_roll: 95
+  name: "Lion\x92s shield"
+  value: 9170
+- min_roll: 96
+  max_roll: 100
+  name: Winged shield
+  value: 17257
+source: DMG
+page: 221
+table: 7-8
+name: DMG Medium Specific Shields
+roll_die: d100

@@ -1,0 +1,26 @@
+entries:
+- min_roll: 1
+  max_roll: 1
+  name: Fire
+  value: 0
+- min_roll: 2
+  max_roll: 2
+  name: Cold
+  value: 0
+- min_roll: 3
+  max_roll: 3
+  name: Acid
+  value: 0
+- min_roll: 4
+  max_roll: 4
+  name: Electrisity
+  value: 0
+- min_roll: 5
+  max_roll: 5
+  name: Sonic
+  value: 0
+source: DMG
+page: null
+table: null
+name: DMG Energy Types
+roll_die: d100

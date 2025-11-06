@@ -1,0 +1,78 @@
+entries:
+- min_roll: 1
+  max_roll: 9
+  name: Javelin of lightning
+  value: 1500
+- min_roll: 10
+  max_roll: 15
+  name: Slaying arrow
+  value: 2282
+- min_roll: 16
+  max_roll: 24
+  name: Adamantine dagger
+  value: 3002
+- min_roll: 25
+  max_roll: 33
+  name: Adamantine battleaxe
+  value: 3010
+- min_roll: 34
+  max_roll: 37
+  name: Greater Slaying arrow
+  value: 4057
+- min_roll: 38
+  max_roll: 40
+  name: Shatterspike
+  value: 4315
+- min_roll: 41
+  max_roll: 46
+  name: Dagger of venom
+  value: 8302
+- min_roll: 47
+  max_roll: 51
+  name: Trident of warning
+  value: 10115
+- min_roll: 52
+  max_roll: 57
+  name: Assassin's dagger
+  value: 10302
+- min_roll: 58
+  max_roll: 62
+  name: Shifter's sorrow
+  value: 12780
+- min_roll: 63
+  max_roll: 66
+  name: Trident of fish command
+  value: 18650
+- min_roll: 67
+  max_roll: 74
+  name: Flame tongue
+  value: 20715
+- min_roll: 75
+  max_roll: 79
+  name: Luck blade (0 wishes)
+  value: 22060
+- min_roll: 80
+  max_roll: 86
+  name: Sword of subtlety
+  value: 22310
+- min_roll: 87
+  max_roll: 91
+  name: Sword of the planes
+  value: 22315
+- min_roll: 92
+  max_roll: 95
+  name: Nine lives stealer
+  value: 23057
+- min_roll: 96
+  max_roll: 98
+  name: Sword of life stealing
+  value: 25715
+- min_roll: 99
+  max_roll: 100
+  name: Oathbow
+  value: 25600
+source: DMG
+page: 227
+table: 7-16
+name: DMG Medium Specific Weapons
+roll_die: d100

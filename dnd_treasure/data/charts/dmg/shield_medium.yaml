@@ -1,0 +1,74 @@
+entries:
+- min_roll: 1
+  max_roll: 10
+  name: ArrowCatching
+  value: 0
+- min_roll: 11
+  max_roll: 20
+  name: Bashing
+  value: 0
+- min_roll: 21
+  max_roll: 25
+  name: Blinding
+  value: 0
+- min_roll: 26
+  max_roll: 40
+  name: FortificationLight
+  value: 0
+- min_roll: 41
+  max_roll: 50
+  name: ArrowDeflection
+  value: 0
+- min_roll: 51
+  max_roll: 57
+  name: Animated
+  value: 0
+- min_roll: 58
+  max_roll: 59
+  name: SpellResistance13
+  value: 0
+- min_roll: 60
+  max_roll: 63
+  name: AcidResistance
+  value: 0
+- min_roll: 64
+  max_roll: 67
+  name: ColdResistance
+  value: 0
+- min_roll: 68
+  max_roll: 71
+  name: ElectricityResistance
+  value: 0
+- min_roll: 72
+  max_roll: 75
+  name: FireResistance
+  value: 0
+- min_roll: 76
+  max_roll: 79
+  name: SonicResistance
+  value: 0
+- min_roll: 80
+  max_roll: 85
+  name: GhostTouch
+  value: 0
+- min_roll: 86
+  max_roll: 95
+  name: FortificationModerate
+  value: 0
+- min_roll: 96
+  max_roll: 98
+  name: SpellResistance15
+  value: 0
+- min_roll: 99
+  max_roll: 99
+  name: Wild
+  value: 0
+- min_roll: 100
+  max_roll: 100
+  name: ROLLTWICE
+  value: 0
+source: DMG
+page: 218
+table: 7-6
+name: DMG Medium Magic Shields
+roll_die: d100

@@ -1,0 +1,166 @@
+entries:
+- min_roll: 1
+  max_roll: 3
+  name: Magic missile (CL 5)
+  value: 3750
+- min_roll: 4
+  max_roll: 7
+  name: Bear's endurance
+  value: 4500
+- min_roll: 8
+  max_roll: 11
+  name: Bull's strength
+  value: 4500
+- min_roll: 12
+  max_roll: 15
+  name: Cat's grace
+  value: 4500
+- min_roll: 16
+  max_roll: 20
+  name: Cure moderate wounds
+  value: 4500
+- min_roll: 21
+  max_roll: 22
+  name: Darkness
+  value: 4500
+- min_roll: 23
+  max_roll: 24
+  name: Daylight
+  value: 4500
+- min_roll: 25
+  max_roll: 27
+  name: Delay poison
+  value: 4500
+- min_roll: 28
+  max_roll: 31
+  name: Eagle's splendor
+  value: 4500
+- min_roll: 32
+  max_roll: 33
+  name: False life
+  value: 4500
+- min_roll: 34
+  max_roll: 37
+  name: Fox's cunning
+  value: 4500
+- min_roll: 38
+  max_roll: 38
+  name: Ghoul touch
+  value: 4500
+- min_roll: 39
+  max_roll: 39
+  name: Hold person
+  value: 4500
+- min_roll: 40
+  max_roll: 42
+  name: Invisibility
+  value: 4500
+- min_roll: 43
+  max_roll: 44
+  name: Knock
+  value: 4500
+- min_roll: 45
+  max_roll: 45
+  name: Levitate
+  value: 4500
+- min_roll: 46
+  max_roll: 47
+  name: Melf's acid arrow
+  value: 4500
+- min_roll: 48
+  max_roll: 49
+  name: Mirror image
+  value: 4500
+- min_roll: 50
+  max_roll: 53
+  name: Owl's wisdom
+  value: 4500
+- min_roll: 54
+  max_roll: 54
+  name: Shatter
+  value: 4500
+- min_roll: 55
+  max_roll: 56
+  name: Silence
+  value: 4500
+- min_roll: 57
+  max_roll: 57
+  name: Summon monster II
+  value: 4500
+- min_roll: 58
+  max_roll: 59
+  name: Web
+  value: 4500
+- min_roll: 60
+  max_roll: 62
+  name: Magic missile (CL 7)
+  value: 5250
+- min_roll: 63
+  max_roll: 64
+  name: Magic missile (CL 9)
+  value: 6750
+- min_roll: 65
+  max_roll: 67
+  name: Call lightning (CL 5)
+  value: 11250
+- min_roll: 68
+  max_roll: 68
+  name: Heightened charm person  (3rd-level spell)
+  value: 11250
+- min_roll: 69
+  max_roll: 70
+  name: Contagion
+  value: 11250
+- min_roll: 71
+  max_roll: 74
+  name: Cure serious wounds
+  value: 11250
+- min_roll: 75
+  max_roll: 77
+  name: Dispel magic
+  value: 11250
+- min_roll: 78
+  max_roll: 81
+  name: Fireball (CL 5)
+  value: 11250
+- min_roll: 82
+  max_roll: 83
+  name: Keen edge
+  value: 11250
+- min_roll: 84
+  max_roll: 87
+  name: Lightning bolt (CL 5)
+  value: 11250
+- min_roll: 88
+  max_roll: 89
+  name: Major image
+  value: 11250
+- min_roll: 90
+  max_roll: 91
+  name: Slow
+  value: 11250
+- min_roll: 92
+  max_roll: 94
+  name: Suggestion
+  value: 11250
+- min_roll: 95
+  max_roll: 97
+  name: Summon monster III
+  value: 11250
+- min_roll: 98
+  max_roll: 98
+  name: Fireball (CL 6)
+  value: 13500
+- min_roll: 99
+  max_roll: 99
+  name: Lightning bolt (CL 6)
+  value: 13500
+- min_roll: 100
+  max_roll: 100
+  name: Searing light (CL 6)
+  value: 13500
+source: DMG
+page: 246
+table: 7-26
+name: DMG Medium Wands
+roll_die: d100

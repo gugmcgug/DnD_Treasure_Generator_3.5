@@ -1,0 +1,86 @@
+entries:
+- min_roll: 1
+  max_roll: 4
+  name: Dagger
+  value: 302
+  flag: 5
+- min_roll: 5
+  max_roll: 14
+  name: Greataxe
+  value: 320
+  flag: 1
+- min_roll: 15
+  max_roll: 24
+  name: Greatsword
+  value: 350
+  flag: 1
+- min_roll: 25
+  max_roll: 28
+  name: Kama
+  value: 302
+  flag: 1
+- min_roll: 29
+  max_roll: 41
+  name: Longsword
+  value: 315
+  flag: 1
+- min_roll: 42
+  max_roll: 45
+  name: Light Mace
+  value: 305
+  flag: 2
+- min_roll: 46
+  max_roll: 50
+  name: Heavy Mace
+  value: 312
+  flag: 2
+- min_roll: 51
+  max_roll: 54
+  name: Nunchaku
+  value: 302
+  flag: 2
+- min_roll: 55
+  max_roll: 57
+  name: Quarterstaff
+  value: 600
+  flag: 2
+- min_roll: 58
+  max_roll: 61
+  name: Rapier
+  value: 320
+  flag: 4
+- min_roll: 62
+  max_roll: 66
+  name: Scimitar
+  value: 315
+  flag: 1
+- min_roll: 67
+  max_roll: 70
+  name: Shortspear
+  value: 302
+  flag: 4
+- min_roll: 71
+  max_roll: 74
+  name: Siangham
+  value: 303
+  flag: 4
+- min_roll: 75
+  max_roll: 84
+  name: Bastard Sword
+  value: 335
+  flag: 1
+- min_roll: 85
+  max_roll: 89
+  name: Short Sword
+  value: 310
+  flag: 1
+- min_roll: 90
+  max_roll: 100
+  name: Dwarven Waraxe
+  value: 330
+  flag: 1
+source: DMG
+page: 222
+table: 7-11
+name: DMG Common Melee Weapons
+roll_die: d100

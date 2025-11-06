@@ -1,0 +1,66 @@
+entries:
+- min_roll: 1
+  max_roll: 18
+  name: Ring of Protection +1
+  value: 2000
+- min_roll: 19
+  max_roll: 28
+  name: Ring of Feather falling
+  value: 2200
+- min_roll: 29
+  max_roll: 36
+  name: Ring of Sustenance
+  value: 2500
+- min_roll: 37
+  max_roll: 44
+  name: Ring of Climbing
+  value: 2500
+- min_roll: 45
+  max_roll: 52
+  name: Ring of Jumping
+  value: 2500
+- min_roll: 53
+  max_roll: 60
+  name: Ring of Swimming
+  value: 2500
+- min_roll: 61
+  max_roll: 70
+  name: Ring of Counterspells
+  value: 4000
+- min_roll: 71
+  max_roll: 75
+  name: Ring of Mind shielding
+  value: 8000
+- min_roll: 76
+  max_roll: 80
+  name: Ring of Protection +2
+  value: 8000
+- min_roll: 81
+  max_roll: 85
+  name: Ring of Force shield
+  value: 8500
+- min_roll: 86
+  max_roll: 90
+  name: Ring of Ram
+  value: 8600
+- min_roll: 91
+  max_roll: 93
+  name: Ring of Animal friendship
+  value: 10800
+- min_roll: 94
+  max_roll: 96
+  name: Ring of Minor Energy resistance
+  value: 12000
+- min_roll: 97
+  max_roll: 98
+  name: Ring of Chameleon power
+  value: 12700
+- min_roll: 99
+  max_roll: 100
+  name: Ring of Water walking
+  value: 15000
+source: DMG
+page: 231
+table: 7-18
+name: DMG Minor Rings
+roll_die: d100

@@ -1,0 +1,86 @@
+entries:
+- min_roll: 1
+  max_roll: 5
+  name: Ring of Counterspells
+  value: 4000
+- min_roll: 6
+  max_roll: 8
+  name: Ring of Mind shielding
+  value: 8000
+- min_roll: 9
+  max_roll: 18
+  name: Ring of Protection +2
+  value: 8000
+- min_roll: 19
+  max_roll: 23
+  name: Ring of Force shield
+  value: 8500
+- min_roll: 24
+  max_roll: 28
+  name: Ring of Ram
+  value: 8600
+- min_roll: 29
+  max_roll: 34
+  name: Ring of Improved Climbing
+  value: 10000
+- min_roll: 35
+  max_roll: 40
+  name: Ring of Improved Jumping
+  value: 10000
+- min_roll: 41
+  max_roll: 46
+  name: 'Ring of Improved Swimming '
+  value: 10000
+- min_roll: 47
+  max_roll: 51
+  name: Ring of Animal friendship
+  value: 10800
+- min_roll: 50
+  max_roll: 56
+  name: Ring of Minor Energy resistance
+  value: 12000
+- min_roll: 57
+  max_roll: 61
+  name: Ring of Chameleon power
+  value: 12700
+- min_roll: 62
+  max_roll: 66
+  name: Ring of Water walking
+  value: 15000
+- min_roll: 67
+  max_roll: 71
+  name: Ring of Protection +3
+  value: 18000
+- min_roll: 72
+  max_roll: 76
+  name: Ring of Minor Spell storing
+  value: 18000
+- min_roll: 77
+  max_roll: 81
+  name: Ring of Invisibility
+  value: 20000
+- min_roll: 82
+  max_roll: 85
+  name: Ring of Wizardry (I)
+  value: 20000
+- min_roll: 86
+  max_roll: 90
+  name: Ring of Evasion
+  value: 25000
+- min_roll: 91
+  max_roll: 93
+  name: Ring of X-ray vision
+  value: 25000
+- min_roll: 94
+  max_roll: 97
+  name: Ring of Blinking
+  value: 27000
+- min_roll: 98
+  max_roll: 100
+  name: Ring of Major Energy resistance
+  value: 28000
+source: DMG
+page: 231
+table: 7-18
+name: DMG Medium Rings
+roll_die: d100

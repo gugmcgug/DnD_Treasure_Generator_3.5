@@ -1,0 +1,38 @@
+entries:
+- min_roll: 1
+  max_roll: 10
+  name: Adamantine Breastplate
+  value: 10200
+- min_roll: 11
+  max_roll: 20
+  name: Dwarven Plate
+  value: 16500
+- min_roll: 21
+  max_roll: 32
+  name: Banded Mail of Luck
+  value: 18900
+- min_roll: 33
+  max_roll: 50
+  name: Celestial Armor
+  value: 18900
+- min_roll: 51
+  max_roll: 60
+  name: Plate Armor of the Deep
+  value: 18900
+- min_roll: 61
+  max_roll: 75
+  name: Breastplate of Command
+  value: 18900
+- min_roll: 76
+  max_roll: 90
+  name: Mithral Full Plate of Speed
+  value: 18900
+- min_roll: 91
+  max_roll: 100
+  name: Demon Armor
+  value: 18900
+source: DMG
+page: 220
+table: 7-7
+name: DMG Major Specific Armor
+roll_die: d100

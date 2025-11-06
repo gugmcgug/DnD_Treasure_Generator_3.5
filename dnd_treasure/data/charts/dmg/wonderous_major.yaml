@@ -1,0 +1,406 @@
+entries:
+- min_roll: 1
+  max_roll: 1
+  name: Dimensional shackles
+  value: 28000
+- min_roll: 2
+  max_roll: 2
+  name: Figurine of wondrous power, obsidian steed
+  value: 28500
+- min_roll: 3
+  max_roll: 3
+  name: Drums of panic
+  value: 30000
+- min_roll: 4
+  max_roll: 4
+  name: Ioun stone, orange
+  value: 30000
+- min_roll: 5
+  max_roll: 5
+  name: Ioun stone, pale green prism
+  value: 30000
+- min_roll: 6
+  max_roll: 6
+  name: Lantern of revealing
+  value: 30000
+- min_roll: 7
+  max_roll: 7
+  name: Robe of blending
+  value: 30000
+- min_roll: 8
+  max_roll: 8
+  name: Amulet of natural armor +4
+  value: 32000
+- min_roll: 9
+  max_roll: 9
+  name: Amulet of proof against detection and location
+  value: 35000
+- min_roll: 10
+  max_roll: 10
+  name: Carpet of flying, 5 ft. by 10 ft.
+  value: 35000
+- min_roll: 11
+  max_roll: 11
+  name: Golem manual, iron
+  value: 35000
+- min_roll: 12
+  max_roll: 12
+  name: Amulet of health +6
+  value: 36000
+- min_roll: 13
+  max_roll: 13
+  name: Belt of giant Strength +6
+  value: 36000
+- min_roll: 14
+  max_roll: 14
+  name: Bracers of armor +6
+  value: 36000
+- min_roll: 15
+  max_roll: 15
+  name: Cloak of Charisma +6
+  value: 36000
+- min_roll: 16
+  max_roll: 16
+  name: Gloves of Dexterity +6
+  value: 36000
+- min_roll: 17
+  max_roll: 17
+  name: Hadband of intellect +6
+  value: 36000
+- min_roll: 18
+  max_roll: 18
+  name: Ioun stone, vibrant purple prism
+  value: 36000
+- min_roll: 19
+  max_roll: 19
+  name: Pearl of power, 6th-level spell
+  value: 36000
+- min_roll: 20
+  max_roll: 20
+  name: Periapt of Wisdom +6
+  value: 36000
+- min_roll: 21
+  max_roll: 21
+  name: Scarab of protection
+  value: 38000
+- min_roll: 22
+  max_roll: 22
+  name: Ioun stone, lavender and green ellipsoid
+  value: 40000
+- min_roll: 23
+  max_roll: 23
+  name: Ring gates
+  value: 40000
+- min_roll: 24
+  max_roll: 24
+  name: Crystal ball
+  value: 42000
+- min_roll: 25
+  max_roll: 25
+  name: Golem manual, greater stone
+  value: 44000
+- min_roll: 26
+  max_roll: 26
+  name: Orb of storms
+  value: 48000
+- min_roll: 27
+  max_roll: 27
+  name: Boots of teleportation
+  value: 49000
+- min_roll: 28
+  max_roll: 28
+  name: Bracers of armor +7
+  value: 49000
+- min_roll: 29
+  max_roll: 29
+  name: Pearl of power, 7th-level spell
+  value: 49000
+- min_roll: 30
+  max_roll: 30
+  name: Amulet of natural armor +5
+  value: 50000
+- min_roll: 31
+  max_roll: 31
+  name: Cloak of displacement, major
+  value: 50000
+- min_roll: 32
+  max_roll: 32
+  name: Crystal ball with see invisibility
+  value: 50000
+- min_roll: 33
+  max_roll: 33
+  name: Horn of Valhalla
+  value: 50000
+- min_roll: 34
+  max_roll: 34
+  name: Crystal ball with detect thoughts
+  value: 51000
+- min_roll: 35
+  max_roll: 35
+  name: Carpet of flying, 6 ft. by 9 ft.
+  value: 53000
+- min_roll: 36
+  max_roll: 36
+  name: Amulet of mighty fists +3
+  value: 54000
+- min_roll: 37
+  max_roll: 37
+  name: Wings of flying
+  value: 54000
+- min_roll: 38
+  max_roll: 38
+  name: Cloak of etherealness
+  value: 55000
+- min_roll: 39
+  max_roll: 39
+  name: Daern's instant fortress
+  value: 55000
+- min_roll: 40
+  max_roll: 40
+  name: Manual of bodily health +2
+  value: 55000
+- min_roll: 41
+  max_roll: 41
+  name: Manual of gainful exercise +2
+  value: 55000
+- min_roll: 42
+  max_roll: 42
+  name: Manual of quickness in action +2
+  value: 55000
+- min_roll: 43
+  max_roll: 43
+  name: Tome of clear thought +2
+  value: 55000
+- min_roll: 44
+  max_roll: 44
+  name: Tome of leadership and influence +2
+  value: 55000
+- min_roll: 45
+  max_roll: 45
+  name: Tome of understanding +2
+  value: 55000
+- min_roll: 46
+  max_roll: 46
+  name: Eyes of charming
+  value: 56000
+- min_roll: 47
+  max_roll: 47
+  name: Robe of stars
+  value: 58000
+- min_roll: 48
+  max_roll: 48
+  name: Carpet of flying, 10 ft. by 10 ft.
+  value: 60000
+- min_roll: 49
+  max_roll: 49
+  name: Darkskull
+  value: 60000
+- min_roll: 50
+  max_roll: 50
+  name: Cube of force
+  value: 62000
+- min_roll: 51
+  max_roll: 51
+  name: Bracers of armor +8
+  value: 64000
+- min_roll: 52
+  max_roll: 52
+  name: Pearl of power, 8th-level spell
+  value: 64000
+- min_roll: 53
+  max_roll: 53
+  name: Crystal ball with telepathy
+  value: 70000
+- min_roll: 54
+  max_roll: 54
+  name: Horn of blasting, greater
+  value: 70000
+- min_roll: 55
+  max_roll: 55
+  name: Pearl of power, two spells
+  value: 70000
+- min_roll: 56
+  max_roll: 56
+  name: Helm of teleportation
+  value: 73500
+- min_roll: 57
+  max_roll: 57
+  name: Gem of seeing
+  value: 75000
+- min_roll: 58
+  max_roll: 58
+  name: Robe of the archmagi
+  value: 75000
+- min_roll: 59
+  max_roll: 59
+  name: Mantle of faith
+  value: 76000
+- min_roll: 60
+  max_roll: 60
+  name: Crystal ball with true seeing
+  value: 80000
+- min_roll: 61
+  max_roll: 61
+  name: Pearl of power, 9th-level spell
+  value: 81000
+- min_roll: 62
+  max_roll: 62
+  name: Well of many worlds
+  value: 82000
+- min_roll: 63
+  max_roll: 63
+  name: Manual of bodily health +3
+  value: 82500
+- min_roll: 64
+  max_roll: 64
+  name: Manual of gainful exercise +3
+  value: 82500
+- min_roll: 65
+  max_roll: 65
+  name: Manual of quickness in action +3
+  value: 82500
+- min_roll: 66
+  max_roll: 66
+  name: Tome of clear thought +3
+  value: 82500
+- min_roll: 67
+  max_roll: 67
+  name: Tome of leadership and influence +3
+  value: 82500
+- min_roll: 68
+  max_roll: 68
+  name: Tome of understanding +3
+  value: 82500
+- min_roll: 69
+  max_roll: 69
+  name: Apparatus of Kwalish
+  value: 90000
+- min_roll: 70
+  max_roll: 70
+  name: Mantle of spell resistance
+  value: 90000
+- min_roll: 71
+  max_roll: 71
+  name: Mirror of opposition
+  value: 92000
+- min_roll: 72
+  max_roll: 72
+  name: Strand of prayer beads, greater
+  value: 95800
+- min_roll: 73
+  max_roll: 73
+  name: Amulet of mighty fists +4
+  value: 96000
+- min_roll: 74
+  max_roll: 74
+  name: Eyes of petrification
+  value: 98000
+- min_roll: 75
+  max_roll: 75
+  name: Bowl of commanding water elementals
+  value: 100000
+- min_roll: 76
+  max_roll: 76
+  name: Brazier of commanding fire elementals
+  value: 100000
+- min_roll: 77
+  max_roll: 77
+  name: Censer of controlling air elementals
+  value: 100000
+- min_roll: 78
+  max_roll: 78
+  name: Stone of controlling earth elementals
+  value: 100000
+- min_roll: 79
+  max_roll: 79
+  name: Manual of bodily health +4
+  value: 110000
+- min_roll: 80
+  max_roll: 80
+  name: Manual of gainful exercise +4
+  value: 110000
+- min_roll: 81
+  max_roll: 81
+  name: Manual of quickness in action +4
+  value: 110000
+- min_roll: 82
+  max_roll: 82
+  name: Tome of clear thought +4
+  value: 110000
+- min_roll: 83
+  max_roll: 83
+  name: Tome of leadership and influence +4
+  value: 110000
+- min_roll: 84
+  max_roll: 84
+  name: Tome of understanding +4
+  value: 110000
+- min_roll: 85
+  max_roll: 85
+  name: Amulet of the planes
+  value: 120000
+- min_roll: 86
+  max_roll: 86
+  name: Robe of eyes
+  value: 120000
+- min_roll: 87
+  max_roll: 87
+  name: Helm of brilliance
+  value: 125000
+- min_roll: 88
+  max_roll: 88
+  name: Manual of bodily health +5
+  value: 137500
+- min_roll: 89
+  max_roll: 89
+  name: Manual of gainful exercise +5
+  value: 137500
+- min_roll: 90
+  max_roll: 90
+  name: Manual of quickness in action +5
+  value: 137500
+- min_roll: 91
+  max_roll: 91
+  name: Tome of clear thought +5
+  value: 137500
+- min_roll: 92
+  max_roll: 92
+  name: Tome of leadership and influence +5
+  value: 137500
+- min_roll: 93
+  max_roll: 93
+  name: Tome of understanding +5
+  value: 137500
+- min_roll: 94
+  max_roll: 94
+  name: Efreeti bottle
+  value: 145000
+- min_roll: 95
+  max_roll: 95
+  name: Amulet of mighty fists +5
+  value: 150000
+- min_roll: 96
+  max_roll: 96
+  name: Chaos diamond
+  value: 160000
+- min_roll: 97
+  max_roll: 97
+  name: Cubic gate
+  value: 164000
+- min_roll: 98
+  max_roll: 98
+  name: Iron flask
+  value: 170000
+- min_roll: 99
+  max_roll: 99
+  name: Mirror of mental prowess
+  value: 175000
+- min_roll: 100
+  max_roll: 100
+  name: Mirror of life trapping
+  value: 200000
+source: DMG
+page: null
+table: null
+name: DMG Major Wonderous Items
+roll_die: d100

@@ -1,0 +1,30 @@
+entries:
+- min_roll: 1
+  max_roll: 10
+  name: Buckler
+  value: 165
+- min_roll: 11
+  max_roll: 15
+  name: Light Wooden Shield
+  value: 153
+- min_roll: 16
+  max_roll: 20
+  name: Light Steel Shield
+  value: 159
+- min_roll: 21
+  max_roll: 30
+  name: Heavy Wooden Shield
+  value: 157
+- min_roll: 31
+  max_roll: 95
+  name: Heavy Steel Shield
+  value: 170
+- min_roll: 96
+  max_roll: 100
+  name: Tower Shield
+  value: 180
+source: DMG
+page: 216
+table: 7-4
+name: DMG Shields
+roll_die: d100
