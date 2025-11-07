@@ -1,0 +1,15 @@
+name: DMG Gems Tier 6
+source: DMG
+page: 229
+table: 7-6
+roll_die: d8
+value_formula: 2d4*1000
+entries:
+  - {min_roll: 1, max_roll: 1, name: "Clearest Bright Green Emerald", value: 5000}
+  - {min_roll: 2, max_roll: 2, name: "Blue-White Diamond", value: 5000}
+  - {min_roll: 3, max_roll: 3, name: "Canary Diamond", value: 5000}
+  - {min_roll: 4, max_roll: 4, name: "Pink Diamond", value: 5000}
+  - {min_roll: 5, max_roll: 5, name: "Brown Diamond", value: 5000}
+  - {min_roll: 6, max_roll: 6, name: "Blue Diamond", value: 5000}
+  - {min_roll: 7, max_roll: 7, name: "Jacinth", value: 5000}
+  - {min_roll: 8, max_roll: 8, name: "Ruby", value: 5000}

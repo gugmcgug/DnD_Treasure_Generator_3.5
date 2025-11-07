@@ -1,0 +1,15 @@
+name: DMG Art Objects Tier 12
+source: DMG
+page: 229
+table: 7-7
+roll_die: d2
+value_formula: 2d6*1000
+entries:
+- min_roll: 1
+  max_roll: 1
+  name: Gold and Ruby Ring
+  value: 7000
+- min_roll: 2
+  max_roll: 2
+  name: Gold Cup set with Emeralds
+  value: 7000

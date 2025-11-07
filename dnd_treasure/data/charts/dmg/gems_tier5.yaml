@@ -1,0 +1,17 @@
+name: DMG Gems Tier 5
+source: DMG
+page: 229
+table: 7-6
+roll_die: d10
+value_formula: 4d4*100
+entries:
+  - {min_roll: 1, max_roll: 1, name: "Emerald", value: 1000}
+  - {min_roll: 2, max_roll: 2, name: "White Sapphire", value: 1000}
+  - {min_roll: 3, max_roll: 3, name: "Black Sapphire", value: 1000}
+  - {min_roll: 4, max_roll: 4, name: "Fire Opal", value: 1000}
+  - {min_roll: 5, max_roll: 5, name: "Star Ruby", value: 1000}
+  - {min_roll: 6, max_roll: 6, name: "Star Sapphire", value: 1000}
+  - {min_roll: 7, max_roll: 7, name: "Yellow Sapphire", value: 1000}
+  - {min_roll: 8, max_roll: 8, name: "Fiery Yellow Corundum", value: 1000}
+  - {min_roll: 9, max_roll: 9, name: "Rich Purple Corundum", value: 1000}
+  - {min_roll: 10, max_roll: 10, name: "Blue Diamond", value: 1000}

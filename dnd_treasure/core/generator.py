@@ -5,6 +5,7 @@ from typing import List, Optional
 
 from dnd_treasure.core.dice import Dice
 from dnd_treasure.core.coins import CoinGenerator
+from dnd_treasure.core.goods import GoodsGenerator
 from dnd_treasure.core.items import ItemGenerator
 from dnd_treasure.core.keywords import KeywordReplacer
 from dnd_treasure.core.models import Treasure, TreasureType, Item
@@ -30,6 +31,7 @@ class TreasureGenerator:
         self.chart_loader = ChartLoader(charts_path)
         self.keyword_replacer = KeywordReplacer(self.chart_loader, self.dice)
         self.coin_generator = CoinGenerator(self.dice)
+        self.goods_generator = GoodsGenerator(self.dice, self.chart_loader)
         self.item_generator = ItemGenerator(self.dice, self.chart_loader, self.keyword_replacer)
 
     def generate(
@@ -63,15 +65,8 @@ class TreasureGenerator:
         return self.coin_generator.generate(level, treasure_type)
 
     def _generate_goods(self, level: int, treasure_type: TreasureType) -> List[str]:
-        """
-        Generate goods for the treasure.
-
-        For now, returns placeholder. Will be implemented in future task.
-        """
-        if treasure_type == TreasureType.NONE:
-            return ["No Goods"]
-        # TODO: Implement goods generation
-        return ["No Goods"]
+        """Generate goods (gems and art objects) for the treasure."""
+        return self.goods_generator.generate(level, treasure_type)
 
     def _generate_items(self, level: int, treasure_type: TreasureType) -> List[Item]:
         """Generate magic items for the treasure."""

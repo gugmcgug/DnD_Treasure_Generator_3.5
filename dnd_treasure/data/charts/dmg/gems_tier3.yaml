@@ -1,0 +1,71 @@
+name: DMG Gems Tier 3
+source: DMG
+page: 229
+table: 7-5
+roll_die: d16
+value_formula: 4d4*10
+entries:
+  - min_roll: 1
+    max_roll: 1
+    name: Amber
+    value: 100
+  - min_roll: 2
+    max_roll: 2
+    name: Amethyst
+    value: 100
+  - min_roll: 3
+    max_roll: 3
+    name: Chrysoberyl
+    value: 100
+  - min_roll: 4
+    max_roll: 4
+    name: Coral
+    value: 100
+  - min_roll: 5
+    max_roll: 5
+    name: Red Garnet
+    value: 100
+  - min_roll: 6
+    max_roll: 6
+    name: Brown-Green Garnet
+    value: 100
+  - min_roll: 7
+    max_roll: 7
+    name: Jade
+    value: 100
+  - min_roll: 8
+    max_roll: 8
+    name: Jet
+    value: 100
+  - min_roll: 9
+    max_roll: 9
+    name: White Pearl
+    value: 100
+  - min_roll: 10
+    max_roll: 10
+    name: Golden Pearl
+    value: 100
+  - min_roll: 11
+    max_roll: 11
+    name: Pink Pearl
+    value: 100
+  - min_roll: 12
+    max_roll: 12
+    name: Silver Pearl
+    value: 100
+  - min_roll: 13
+    max_roll: 13
+    name: Red Spinel
+    value: 100
+  - min_roll: 14
+    max_roll: 14
+    name: Red-Brown Spinel
+    value: 100
+  - min_roll: 15
+    max_roll: 15
+    name: Deep Green Spinel
+    value: 100
+  - min_roll: 16
+    max_roll: 16
+    name: Tourmaline
+    value: 100

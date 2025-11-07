@@ -1,0 +1,35 @@
+name: DMG Art Objects Tier 2
+source: DMG
+page: 229
+table: 7-7
+roll_die: d10
+value_formula: 3d6*10
+entries:
+- min_roll: 1
+  max_roll: 1
+  name: Gold Ring with Bloodstones
+  value: 130
+- min_roll: 2
+  max_roll: 2
+  name: Carved Ivory Statuette
+  value: 130
+- min_roll: 3
+  max_roll: 3
+  name: Finely Wrought Small Gold Bracelet
+  value: 130
+- min_roll: 4
+  max_roll: 4
+  name: Leather mask with Citrines
+  value: 130
+- min_roll: 5
+  max_roll: 5
+  name: Silver Chalice Set
+  value: 130
+- min_roll: 6
+  max_roll: 6
+  name: Large Well-Done Wool Tapestry
+  value: 130
+- min_roll: 7
+  max_roll: 10
+  name: Brass Mug with Jade Inlays
+  value: 130

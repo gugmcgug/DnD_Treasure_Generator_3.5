@@ -1,0 +1,19 @@
+name: DMG Gems Tier 4
+source: DMG
+page: 229
+table: 7-6
+roll_die: d12
+value_formula: 2d4*100
+entries:
+  - {min_roll: 1, max_roll: 1, name: "Alexandrite", value: 500}
+  - {min_roll: 2, max_roll: 2, name: "Aquamarine", value: 500}
+  - {min_roll: 3, max_roll: 3, name: "Violet Garnet", value: 500}
+  - {min_roll: 4, max_roll: 4, name: "Black Pearl", value: 500}
+  - {min_roll: 5, max_roll: 5, name: "Deep Blue Spinel", value: 500}
+  - {min_roll: 6, max_roll: 6, name: "Golden Yellow Topaz", value: 500}
+  - {min_roll: 7, max_roll: 7, name: "Emerald", value: 500}
+  - {min_roll: 8, max_roll: 8, name: "White Opal", value: 500}
+  - {min_roll: 9, max_roll: 9, name: "Black Opal", value: 500}
+  - {min_roll: 10, max_roll: 10, name: "Fire Opal", value: 500}
+  - {min_roll: 11, max_roll: 11, name: "Blue Sapphire", value: 500}
+  - {min_roll: 12, max_roll: 12, name: "Fiery Yellow Corundum", value: 500}

@@ -1,0 +1,19 @@
+name: DMG Art Objects Tier 9
+source: DMG
+page: 229
+table: 7-7
+roll_die: d3
+value_formula: 1d4*1000
+entries:
+- min_roll: 1
+  max_roll: 1
+  name: Embroidered and Bejeweled Glove
+  value: 2500
+- min_roll: 2
+  max_roll: 2
+  name: Jeweled Anklet
+  value: 2500
+- min_roll: 3
+  max_roll: 3
+  name: Gold Music Box
+  value: 2500

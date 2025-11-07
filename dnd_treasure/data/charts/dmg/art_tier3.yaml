@@ -1,0 +1,23 @@
+name: DMG Art Objects Tier 3
+source: DMG
+page: 229
+table: 7-7
+roll_die: d10
+value_formula: 1d6*100
+entries:
+- min_roll: 1
+  max_roll: 2
+  name: Silver Comb with Moonstones
+  value: 350
+- min_roll: 3
+  max_roll: 4
+  name: Silver-Plated Steel Longsword with Jet Set in Hilt
+  value: 350
+- min_roll: 5
+  max_roll: 6
+  name: Carved Harp of Exotic Wood with Ivory Inlay and Zircon Gems
+  value: 350
+- min_roll: 7
+  max_roll: 10
+  name: Solid Gold Idol
+  value: 350

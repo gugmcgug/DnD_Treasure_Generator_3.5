@@ -1,0 +1,19 @@
+name: DMG Art Objects Tier 5
+source: DMG
+page: 229
+table: 7-7
+roll_die: d10
+value_formula: 2d6*100
+entries:
+- min_roll: 1
+  max_roll: 3
+  name: Embroidered and Bejeweled Glove
+  value: 700
+- min_roll: 4
+  max_roll: 6
+  name: Jeweled Anklet
+  value: 700
+- min_roll: 7
+  max_roll: 10
+  name: Gold Music Box
+  value: 700

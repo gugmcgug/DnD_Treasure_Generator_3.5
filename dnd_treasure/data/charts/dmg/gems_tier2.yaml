@@ -1,0 +1,71 @@
+name: DMG Gems Tier 2
+source: DMG
+page: 229
+table: 7-5
+roll_die: d16
+value_formula: 2d4*10
+entries:
+  - min_roll: 1
+    max_roll: 1
+    name: Bloodstone
+    value: 50
+  - min_roll: 2
+    max_roll: 2
+    name: Carnelian
+    value: 50
+  - min_roll: 3
+    max_roll: 3
+    name: Chalcedony
+    value: 50
+  - min_roll: 4
+    max_roll: 4
+    name: Chrysoprase
+    value: 50
+  - min_roll: 5
+    max_roll: 5
+    name: Citrine
+    value: 50
+  - min_roll: 6
+    max_roll: 6
+    name: Jasper Iolite
+    value: 50
+  - min_roll: 7
+    max_roll: 7
+    name: Moonstone
+    value: 50
+  - min_roll: 8
+    max_roll: 8
+    name: Onyx
+    value: 50
+  - min_roll: 9
+    max_roll: 9
+    name: Peridot
+    value: 50
+  - min_roll: 10
+    max_roll: 10
+    name: Rock Crystal (Clear Quartz)
+    value: 50
+  - min_roll: 11
+    max_roll: 11
+    name: Sard
+    value: 50
+  - min_roll: 12
+    max_roll: 12
+    name: Sardonyx
+    value: 50
+  - min_roll: 13
+    max_roll: 13
+    name: Rose Quartz
+    value: 50
+  - min_roll: 14
+    max_roll: 14
+    name: Smokey Quartz
+    value: 50
+  - min_roll: 15
+    max_roll: 15
+    name: Star Rose Quartz
+    value: 50
+  - min_roll: 16
+    max_roll: 16
+    name: Zircon
+    value: 50
